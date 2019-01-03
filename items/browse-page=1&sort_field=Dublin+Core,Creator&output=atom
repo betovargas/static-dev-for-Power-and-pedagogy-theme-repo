@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=1&amp;sort_field=Dublin+Core,Creator&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:45:55+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=1&amp;sort_field=Dublin+Core,Creator&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=1&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/2?page=1&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=1&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/24</id>
+    <title><![CDATA[Schools Should be More Like a Social Network]]></title>
+    <summary><![CDATA[Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/24"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Schools Should be More Like a Social Network</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Fast Company</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.fastcompany.com/3066750/altschool-wants-schools-to-be-more-like-a-social-network</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/6</id>
+    <title><![CDATA[The Racial Achievement Gap in South Brunswick]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/6"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Racial Achievement Gap in South Brunswick</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Elementary Tracking </div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://blogs.sbschools.org/vikingvibe/2018/05/07/the-racial-achievement-gap-in-south-brunswick/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Blog Post</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/7</id>
+    <title><![CDATA[You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary]]></title>
+    <summary><![CDATA[This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/7"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Poverty in Philadelphia Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://whyy.org/episodes/schooled-season-two-trailer/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Podcast</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/8</id>
+    <title><![CDATA[When Parents Teach Children (and Vice Versa)]]></title>
+    <summary><![CDATA[This article talks about the benefits of having elementary school students teaching their parents in order to get parents engaged.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/8"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">When Parents Teach Children (and Vice Versa)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This article talks about the benefits of having elementary school students teaching their parents in order to get parents engaged.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/2018/03/13/opinion/children-teaching-parents.html?rref=collection%2Ftimestopic%2FHomework&amp;action=click&amp;contentCollection=timestopics&amp;region=stream&amp;module=stream_unit&amp;version=latest&amp;contentPlacement=5&amp;pgtype=collection</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/9</id>
+    <title><![CDATA[Build a School in the Cloud]]></title>
+    <summary><![CDATA[A great ted talk that talks about self-organized learning and the power of interest and encouragement in learning and how obsolete our current system of learning is.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/9"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Build a School in the Cloud</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A great ted talk that talks about self-organized learning and the power of interest and encouragement in learning and how obsolete our current system of learning is.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?referrer=playlist-re_imagining_school#t-1237815</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Ted Talk Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/10</id>
+    <title><![CDATA[Do Schools Kill Creativity?]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/10"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Do Schools Kill Creativity?</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=iG9CE55wbtY</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Ted Talk Youtube Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/11</id>
+    <title><![CDATA[Why Poor Schools Can&#039;t Win at Standardized Testing]]></title>
+    <summary><![CDATA[The companies that create the most important state and national exams also publish textbooks that contain many of the answers. Unfortunately, low-income school districts can’t afford to buy them.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/11"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Why Poor Schools Can&#039;t Win at Standardized Testing</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">testing, funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">The companies that create the most important state and national exams also publish textbooks that contain many of the answers. Unfortunately, low-income school districts can’t afford to buy them.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.theatlantic.com/education/archive/2014/07/why-poor-schools-cant-win-at-standardized-testing/374287/?utm_source=SFFB</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/12</id>
+    <title><![CDATA[Government Watchdog Finds Racial Bias in School Discipline]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/12"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Government Watchdog Finds Racial Bias in School Discipline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Civil Rights, Discipline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://mobile.nytimes.com/2018/04/04/us/politics/racial-bias-school-discipline-policies.html?smid=fb-nytimes&amp;smtyp=cur</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">New York Times Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/13</id>
+    <title><![CDATA[How America&#039;s Public Schools Keep Kids in Poverty]]></title>
+    <summary><![CDATA[A ted talk about equality, race, and poverty in schools]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/13"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How America&#039;s Public Schools Keep Kids in Poverty</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Civil Rights, Funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A ted talk about equality, race, and poverty in schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=7O7BMa9XGXE</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Ted Talk Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/14</id>
+    <title><![CDATA[My Little Hundred Million]]></title>
+    <summary><![CDATA[This podcast discusses the problem with educational philanthropy, the importance of lifting up &quot;weak links&quot; and not giving unnecessary support to &quot;strong links&quot;]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/14"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">My Little Hundred Million</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This podcast discusses the problem with educational philanthropy, the importance of lifting up &quot;weak links&quot; and not giving unnecessary support to &quot;strong links&quot;</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://revisionisthistory.com/episodes/06-my-little-hundred-million</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Podcast</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

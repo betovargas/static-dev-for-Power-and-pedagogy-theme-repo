@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=5&amp;sort_field=added&amp;sort_dir=a&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:46:10+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=5&amp;sort_field=added&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=5&amp;sort_field=added&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/4?page=5&amp;sort_field=added&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=5&amp;sort_field=added&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=5&amp;sort_field=added&amp;sort_dir=a&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/47</id>
+    <title><![CDATA[The key to effective educational science videos]]></title>
+    <summary><![CDATA[How to effectively teach science, especially when many people have (incorrect) preconceptions]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/47"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The key to effective educational science videos</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">How to effectively teach science, especially when many people have (incorrect) preconceptions</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=RQaW2bFieo8</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Science Education, How we learn</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/48</id>
+    <title><![CDATA[Let&#039;s use video to reinvent education]]></title>
+    <summary><![CDATA[Sal Khan, of Khan academy talks about the possibilities of a flipped classroom and how we can learn with videos]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/48"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Let&#039;s use video to reinvent education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Sal Khan, of Khan academy talks about the possibilities of a flipped classroom and how we can learn with videos</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">How we learn, Policy</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/49</id>
+    <title><![CDATA[Are Crows the Ultimate Problem Solvers? | Inside the Animal Mind | BBC Earth]]></title>
+    <summary><![CDATA[Shows the results of behaviorism on a crow]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/49"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Are Crows the Ultimate Problem Solvers? | Inside the Animal Mind | BBC Earth</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Shows the results of behaviorism on a crow</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=cbSu2PXOTOc</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Behaviorism</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/50</id>
+    <title><![CDATA[Modern-Day Segregation in Public Schools]]></title>
+    <summary><![CDATA[Discusses school tracking and its connection to other forms of segregation]]></summary>
+    <updated>2018-10-10T15:35:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/50"/>
+    <link rel="enclosure" href="http://s3.amazonaws.com/sc-lib-ds-pedagogyandpower%2Foriginal%2F08749f3f7257ec5380f510fa7fd45d7b.jpg" type="image/jpeg" length="89604"/>
+    <category term="race"/>
+    <category term="Race in Education"/>
+    <category term="seg"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Modern-Day Segregation in Public Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Discusses school tracking and its connection to other forms of segregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text"><a href="https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/" target="_blank" rel="noreferrer noopener">https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/</a></div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">School Policy, Tracking</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/51</id>
+    <title><![CDATA[Love is All You Need (Full Length)]]></title>
+    <summary><![CDATA[This short film portrays a fictional world where being homosexual is the norm and heterosexual peoples are ostracized and discriminated against]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/51"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Love is All You Need (Full Length)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This short film portrays a fictional world where being homosexual is the norm and heterosexual peoples are ostracized and discriminated against</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?time_continue=3&amp;v=3ROXTFfkcfo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Hidden Curriculum, LGBT Issues</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/52</id>
+    <title><![CDATA[Unequal Opportunities: Fewer Resources, Worse Outcomes for Students in Schools with Concentrated Poverty]]></title>
+    <summary><![CDATA[This article has a great graphic about course offerings in Virginia based upon the poverty levels of the schools. Would be a cool accompaniment to Jean Anyon]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/52"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Unequal Opportunities: Fewer Resources, Worse Outcomes for Students in Schools with Concentrated Poverty</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This article has a great graphic about course offerings in Virginia based upon the poverty levels of the schools. Would be a cool accompaniment to Jean Anyon</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://www.thecommonwealthinstitute.org/2017/10/26/unequal-opportunities-fewer-resources-worse-outcomes-for-students-in-schools-with-concentrated-poverty/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Hidden Curriculum of work</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/53</id>
+    <title><![CDATA[ Teacher Diversity in America ]]></title>
+    <summary><![CDATA[From description: Experts from the Brown Center on Education Policy examine minority underrepresentation among educators in the U.S., providing insights into tackling diversity gaps in the public teacher workforce.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/53"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text"> Teacher Diversity in America </div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">From description: Experts from the Brown Center on Education Policy examine minority underrepresentation among educators in the U.S., providing insights into tackling diversity gaps in the public teacher workforce.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.brookings.edu/series/teacher-diversity-in-america/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Hidden Curriculum, Diversity In schools</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/54</id>
+    <title><![CDATA[How New Orleans Is Helping Its Students Succeed]]></title>
+    <summary><![CDATA[A really interesting positive take on complete charter school overhaul in New Orleans after Katrina.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/54"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How New Orleans Is Helping Its Students Succeed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A really interesting positive take on complete charter school overhaul in New Orleans after Katrina.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/2018/07/15/opinion/columnists/new-orleans-charter-schools-education-reform.html?action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=opinion-c-col-right-region&amp;region=opinion-c-col-right-region&amp;WT.nav=opinion-c-col-right-region</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Charter Schools, school reform</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/55</id>
+    <title><![CDATA[The nation is focused on students and gun violence. But kids in urban schools want to know, where’s everybody been?]]></title>
+    <summary><![CDATA[This is a critique of the recent florida gun movement, because this has been happening in urban schools for years, why have the media not covered this sooner?]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/55"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The nation is focused on students and gun violence. But kids in urban schools want to know, where’s everybody been?</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This is a critique of the recent florida gun movement, because this has been happening in urban schools for years, why have the media not covered this sooner?</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.washingtonpost.com/local/the-nation-is-focused-on-students-and-gun-violence-but-kids-in-urban-schools-want-to-know-wheres-everybody-been/2018/03/12/3a506ff4-2633-11e8-bc72-077aa4dab9ef_story.html?utm_term=.fe02bc4b3c4a</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">guns in schools, racism</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/56</id>
+    <title><![CDATA[Trump’s School Safety Commission Won’t Look at Guns, Betsy DeVos Says]]></title>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/56"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Trump’s School Safety Commission Won’t Look at Guns, Betsy DeVos Says</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/2018/06/05/us/politics/devos-guns-school-safety-commission.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">guns in schools</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

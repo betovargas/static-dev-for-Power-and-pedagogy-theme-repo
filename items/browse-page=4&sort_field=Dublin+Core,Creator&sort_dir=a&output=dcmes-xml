@@ -1,0 +1,68 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/37">
+<dc:title>New Jersey Law Codifies School Segregation, Suit Says</dc:title>
+<dc:description>Article examines a lawsuit against New Jersey saying that the state is still illegally segregated</dc:description>
+<dc:source>https://nyti.ms/2It7t5Q</dc:source>
+<dc:identifier>Segregation, Integration</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/38">
+<dc:title>Why Are New York’s Schools Segregated? It’s Not as Simple as Housing</dc:title>
+<dc:description>This article looks at how NY is segregated and how school choice affects segregation. It works to counteract the narrative that school segregation is solely a product of housing.</dc:description>
+<dc:source>https://nyti.ms/2KxhfVI</dc:source>
+<dc:identifier>Segregation, school Choice</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/39">
+<dc:title>De Blasio’s Plan for NYC Schools Isn’t Anti-Asian. It’s Anti-Racist.</dc:title>
+<dc:description>This Op-Ed in the NY Times supports the efforts to reform admissions into the top public high schools in NY and stop using a single standardized test to decide admissions</dc:description>
+<dc:source>https://nyti.ms/2JIbF27</dc:source>
+<dc:identifier>School Choice, High Stakes Testing</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/40">
+<dc:title>No Ethnic Group Owns Stuyvesant. All New Yorkers Do.</dc:title>
+<dc:description>This Op-Ed in the NY Times defends the current admissions practices as top NY public high schools and argues against ceasing to use a standardized test to determine admission into these schools</dc:description>
+<dc:source>https://nyti.ms/2MpeiYz</dc:source>
+<dc:identifier>School Choice, High Stakes Testing</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/41">
+<dc:title>How Entitled Parents Hurt Schools</dc:title>
+<dc:description>This article looks at how rich parents can weaken public schools by using the system to give their students the biggest advantage.</dc:description>
+<dc:source>https://nyti.ms/2KoC9py</dc:source>
+<dc:identifier>School Choice, Rich Parents</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/42">
+<dc:title>The tyranny of the curriculum: Shawn Cornally at TEDxEastsidePrep</dc:title>
+<dc:description>How a school in Iowa can combat the hidden curriculum of most contemporary schools through create project based learning and quasi-free schooling</dc:description>
+<dc:source>https://www.youtube.com/watch?v=aldMBgT6u-4</dc:source>
+<dc:identifier>Hidden Curriculum, Unschooling</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/43">
+<dc:title>Is This Working?
+
+Stories of schools struggling with what to do with misbehaving kids. There&#039;s no general agreement about what teachers should do to discipline kids. And there&#039;s evidence that some of the most popular punishments actually may harm kids.</dc:title>
+<dc:description>Podcast about school discipline across America with focus on a restorative justice program in an urban public school</dc:description>
+<dc:source>https://www.thisamericanlife.org/538/is-this-working</dc:source>
+<dc:identifier>School Discipline</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/44">
+<dc:title>Waiting for Superman
+</dc:title>
+<dc:description>Documentary about our inadequate school system and reform efforts</dc:description>
+<dc:source>https://www.takepart.com/waiting-for-superman/resources/index.html</dc:source>
+<dc:identifier>School Reform</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/45">
+<dc:title>US Pell Grants and Head Start Spending</dc:title>
+<dc:description>Has all kinds of government data on education spending, outcomes, and much more</dc:description>
+<dc:source>https://usafacts.org/missions/secure-liberty/15#pell_grants_and_head_start</dc:source>
+<dc:identifier>Education Data</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/46">
+<dc:title>The Hidden Curricula of Education</dc:title>
+<dc:description>From description: Douglas Kellner, Professor George F. Kneller Philosophy of Education Chair at UCLA, describes the hidden curriculum in modern education. Schooling tends to be a conservative force; it propagates the status quo. What can we do to make education more progressive?</dc:description>
+<dc:source>https://www.youtube.com/watch?v=afBF-ZQgVBs</dc:source>
+<dc:identifier>Hidden Curriculum</dc:identifier>
+</rdf:Description></rdf:RDF>

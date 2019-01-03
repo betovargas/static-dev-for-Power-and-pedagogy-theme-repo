@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?tags=language&amp;sort_field=Dublin+Core,Title&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:45:37+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?tags=language&amp;sort_field=Dublin+Core,Title&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?tags=language&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?tags=language&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/57</id>
+    <title><![CDATA[Let&#039;s Stop Talking About The &#039;30 Million Word Gap&#039;]]></title>
+    <summary><![CDATA[Podcast about the so called 30-million word gap, how racial bias can effect studies and how we might need to rethink assumptions about early childhood education]]></summary>
+    <updated>2018-10-10T04:32:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/57"/>
+    <category term="Bilingual and Language Education"/>
+    <category term="language"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Let&#039;s Stop Talking About The &#039;30 Million Word Gap&#039;</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Podcast about the so called 30-million word gap, how racial bias can effect studies and how we might need to rethink assumptions about early childhood education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/sections/ed/2018/06/01/615188051/lets-stop-talking-about-the-30-million-word-gap</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">english</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Early Childhood Education</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

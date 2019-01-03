@@ -1,0 +1,29 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/25">
+<dc:title>The Danger of a Single Story</dc:title>
+<dc:subject>Hidden Curriculum</dc:subject>
+<dc:description>Ted Talk by Chimamanda Adichie- discusses growing up in Lagos Nigeria and how not seeing herself in children&#039;s books taught her about her place in literature. She explores the danger of having a &quot;single story&quot; about a person or culture.</dc:description>
+<dc:source>https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story#t-42395</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/46">
+<dc:title>The Hidden Curricula of Education</dc:title>
+<dc:description>From description: Douglas Kellner, Professor George F. Kneller Philosophy of Education Chair at UCLA, describes the hidden curriculum in modern education. Schooling tends to be a conservative force; it propagates the status quo. What can we do to make education more progressive?</dc:description>
+<dc:source>https://www.youtube.com/watch?v=afBF-ZQgVBs</dc:source>
+<dc:identifier>Hidden Curriculum</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/51">
+<dc:title>Love is All You Need (Full Length)</dc:title>
+<dc:description>This short film portrays a fictional world where being homosexual is the norm and heterosexual peoples are ostracized and discriminated against</dc:description>
+<dc:source>https://www.youtube.com/watch?time_continue=3&amp;v=3ROXTFfkcfo</dc:source>
+<dc:identifier>Hidden Curriculum, LGBT Issues</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/52">
+<dc:title>Unequal Opportunities: Fewer Resources, Worse Outcomes for Students in Schools with Concentrated Poverty</dc:title>
+<dc:description>This article has a great graphic about course offerings in Virginia based upon the poverty levels of the schools. Would be a cool accompaniment to Jean Anyon</dc:description>
+<dc:source>http://www.thecommonwealthinstitute.org/2017/10/26/unequal-opportunities-fewer-resources-worse-outcomes-for-students-in-schools-with-concentrated-poverty/</dc:source>
+<dc:identifier>Hidden Curriculum of work</dc:identifier>
+</rdf:Description></rdf:RDF>

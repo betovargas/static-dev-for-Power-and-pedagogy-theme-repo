@@ -1,0 +1,64 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/47">
+<dc:title>The key to effective educational science videos</dc:title>
+<dc:description>How to effectively teach science, especially when many people have (incorrect) preconceptions</dc:description>
+<dc:source>https://www.youtube.com/watch?v=RQaW2bFieo8</dc:source>
+<dc:identifier>Science Education, How we learn</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/48">
+<dc:title>Let&#039;s use video to reinvent education</dc:title>
+<dc:description>Sal Khan, of Khan academy talks about the possibilities of a flipped classroom and how we can learn with videos</dc:description>
+<dc:source>https://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare</dc:source>
+<dc:identifier>How we learn, Policy</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/49">
+<dc:title>Are Crows the Ultimate Problem Solvers? | Inside the Animal Mind | BBC Earth</dc:title>
+<dc:description>Shows the results of behaviorism on a crow</dc:description>
+<dc:source>https://www.youtube.com/watch?v=cbSu2PXOTOc</dc:source>
+<dc:identifier>Behaviorism</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/50">
+<dc:title>Modern-Day Segregation in Public Schools</dc:title>
+<dc:description>Discusses school tracking and its connection to other forms of segregation</dc:description>
+<dc:source>&lt;a href=&quot;https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/&lt;/a&gt;</dc:source>
+<dc:identifier>School Policy, Tracking</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/51">
+<dc:title>Love is All You Need (Full Length)</dc:title>
+<dc:description>This short film portrays a fictional world where being homosexual is the norm and heterosexual peoples are ostracized and discriminated against</dc:description>
+<dc:source>https://www.youtube.com/watch?time_continue=3&amp;v=3ROXTFfkcfo</dc:source>
+<dc:identifier>Hidden Curriculum, LGBT Issues</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/52">
+<dc:title>Unequal Opportunities: Fewer Resources, Worse Outcomes for Students in Schools with Concentrated Poverty</dc:title>
+<dc:description>This article has a great graphic about course offerings in Virginia based upon the poverty levels of the schools. Would be a cool accompaniment to Jean Anyon</dc:description>
+<dc:source>http://www.thecommonwealthinstitute.org/2017/10/26/unequal-opportunities-fewer-resources-worse-outcomes-for-students-in-schools-with-concentrated-poverty/</dc:source>
+<dc:identifier>Hidden Curriculum of work</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/53">
+<dc:title> Teacher Diversity in America </dc:title>
+<dc:description>From description: Experts from the Brown Center on Education Policy examine minority underrepresentation among educators in the U.S., providing insights into tackling diversity gaps in the public teacher workforce.</dc:description>
+<dc:source>https://www.brookings.edu/series/teacher-diversity-in-america/</dc:source>
+<dc:identifier>Hidden Curriculum, Diversity In schools</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/54">
+<dc:title>How New Orleans Is Helping Its Students Succeed</dc:title>
+<dc:description>A really interesting positive take on complete charter school overhaul in New Orleans after Katrina.</dc:description>
+<dc:source>https://www.nytimes.com/2018/07/15/opinion/columnists/new-orleans-charter-schools-education-reform.html?action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=opinion-c-col-right-region&amp;region=opinion-c-col-right-region&amp;WT.nav=opinion-c-col-right-region</dc:source>
+<dc:identifier>Charter Schools, school reform</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/55">
+<dc:title>The nation is focused on students and gun violence. But kids in urban schools want to know, where’s everybody been?</dc:title>
+<dc:description>This is a critique of the recent florida gun movement, because this has been happening in urban schools for years, why have the media not covered this sooner?</dc:description>
+<dc:source>https://www.washingtonpost.com/local/the-nation-is-focused-on-students-and-gun-violence-but-kids-in-urban-schools-want-to-know-wheres-everybody-been/2018/03/12/3a506ff4-2633-11e8-bc72-077aa4dab9ef_story.html?utm_term=.fe02bc4b3c4a</dc:source>
+<dc:identifier>guns in schools, racism</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/56">
+<dc:title>Trump’s School Safety Commission Won’t Look at Guns, Betsy DeVos Says</dc:title>
+<dc:source>https://www.nytimes.com/2018/06/05/us/politics/devos-guns-school-safety-commission.html</dc:source>
+<dc:identifier>guns in schools</dc:identifier>
+</rdf:Description></rdf:RDF>

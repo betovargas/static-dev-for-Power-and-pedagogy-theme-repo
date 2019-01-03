@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://pedagogyandpower.org/items/browse?collection=2&amp;sort_field=Dublin+Core%2CTitle&amp;output=omeka-xml" accessDate="2018-12-21T09:43:36+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>5</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="23" public="1" featured="0">
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="219">
+                  <text>School Funding</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="19">
+                <text>http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="25">
+                <text>Gates Foundation failures show philanthropists shouldn’t be setting America's public school agenda</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="26">
+                <text>Education Funding </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="27">
+                <text>Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="28">
+                <text>Article</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="13" public="1" featured="0">
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="219">
+                  <text>School Funding</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="9">
+                <text>https://www.youtube.com/watch?v=7O7BMa9XGXE</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="59">
+                <text>How America's Public Schools Keep Kids in Poverty</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="60">
+                <text>Civil Rights, Funding</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="61">
+                <text>A ted talk about equality, race, and poverty in schools</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="62">
+                <text>Ted Talk Video</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="14" public="1" featured="0">
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="219">
+                  <text>School Funding</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="10">
+                <text>http://revisionisthistory.com/episodes/06-my-little-hundred-million</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="55">
+                <text>My Little Hundred Million</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="56">
+                <text>funding</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="57">
+                <text>This podcast discusses the problem with educational philanthropy, the importance of lifting up "weak links" and not giving unnecessary support to "strong links"</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="58">
+                <text>Podcast</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="33" public="1" featured="0">
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="219">
+                  <text>School Funding</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="111">
+                <text>School Funding</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="112">
+                <text>School Funding Map</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="113">
+                <text>NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="120">
+                <text>https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="44">
+        <name>Education Policy</name>
+      </tag>
+      <tag tagId="31">
+        <name>School Funding</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="45" public="1" featured="0">
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="219">
+                  <text>School Funding</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="154">
+                <text>Education Data</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="155">
+                <text>https://usafacts.org/missions/secure-liberty/15#pell_grants_and_head_start</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="156">
+                <text>Has all kinds of government data on education spending, outcomes, and much more</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="208">
+                <text>US Pell Grants and Head Start Spending</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+</itemContainer>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/24">
+<dc:title>Schools Should be More Like a Social Network</dc:title>
+<dc:description>Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.</dc:description>
+<dc:creator>Fast Company</dc:creator>
+<dc:source>https://www.fastcompany.com/3066750/altschool-wants-schools-to-be-more-like-a-social-network</dc:source>
+<dc:format>Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/33">
+<dc:title>School Funding Map</dc:title>
+<dc:subject>School Funding</dc:subject>
+<dc:description>NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.</dc:description>
+<dc:source>https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/22">
+<dc:title>Noam Chomsky on the Role of the Educational System</dc:title>
+<dc:subject>Progressive Ed</dc:subject>
+<dc:source>https://www.youtube.com/watch?v=4KgXaUNf4ls</dc:source>
+<dc:format>Youtube Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/40">
+<dc:title>No Ethnic Group Owns Stuyvesant. All New Yorkers Do.</dc:title>
+<dc:description>This Op-Ed in the NY Times defends the current admissions practices as top NY public high schools and argues against ceasing to use a standardized test to determine admission into these schools</dc:description>
+<dc:source>https://nyti.ms/2MpeiYz</dc:source>
+<dc:identifier>School Choice, High Stakes Testing</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/37">
+<dc:title>New Jersey Law Codifies School Segregation, Suit Says</dc:title>
+<dc:description>Article examines a lawsuit against New Jersey saying that the state is still illegally segregated</dc:description>
+<dc:source>https://nyti.ms/2It7t5Q</dc:source>
+<dc:identifier>Segregation, Integration</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/32">
+<dc:title>Neuroscientist Explains One Concept in 5 Levels of Difficulty</dc:title>
+<dc:subject>Spiral Curriculum</dc:subject>
+<dc:description>Wired Video: Neuroscientist explains the same scientific concept to a 5 year old, 13 year old, college student, grad student, and industry expert.</dc:description>
+<dc:source>https://www.youtube.com/watch?v=opqIa5Jiwuw</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/31">
+<dc:title>NEED THE SOURCE From Malcolm London and Faltama Seid in More than a Score</dc:title>
+<dc:subject>High-Stakes Testing</dc:subject>
+<dc:description>Three student-authored poems written about the culture of high-stakes testing</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/14">
+<dc:title>My Little Hundred Million</dc:title>
+<dc:subject>funding</dc:subject>
+<dc:description>This podcast discusses the problem with educational philanthropy, the importance of lifting up &quot;weak links&quot; and not giving unnecessary support to &quot;strong links&quot;</dc:description>
+<dc:source>http://revisionisthistory.com/episodes/06-my-little-hundred-million</dc:source>
+<dc:format>Podcast</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/30">
+<dc:title>More than a Score: giving students a solid chance</dc:title>
+<dc:subject>High-Stakes Testing</dc:subject>
+<dc:description>High-stakes testing from the editor of More than a Score</dc:description>
+<dc:source>https://www.youtube.com/watch?v=gL64chNiuJQ</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/50">
+<dc:title>Modern-Day Segregation in Public Schools</dc:title>
+<dc:description>Discusses school tracking and its connection to other forms of segregation</dc:description>
+<dc:source>&lt;a href=&quot;https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/&lt;/a&gt;</dc:source>
+<dc:identifier>School Policy, Tracking</dc:identifier>
+</rdf:Description></rdf:RDF>

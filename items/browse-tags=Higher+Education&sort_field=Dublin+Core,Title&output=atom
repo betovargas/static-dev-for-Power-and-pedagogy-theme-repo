@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?tags=Higher+Education&amp;sort_field=Dublin+Core,Title&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:45:24+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?tags=Higher+Education&amp;sort_field=Dublin+Core,Title&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?tags=Higher+Education&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?tags=Higher+Education&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/35</id>
+    <title><![CDATA[TAGS]]></title>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/35"/>
+    <category term="Asian American Education"/>
+    <category term="Behaviorism"/>
+    <category term="Bilingual and Language Education"/>
+    <category term="Black Education"/>
+    <category term="Caring in Schools"/>
+    <category term="Constructivism"/>
+    <category term="Critical Pedagogy"/>
+    <category term="Discipline"/>
+    <category term="Early Childhood"/>
+    <category term="Education Leadership"/>
+    <category term="Education Policy"/>
+    <category term="Gender"/>
+    <category term="Hidden Curriculum"/>
+    <category term="Higher Education"/>
+    <category term="History of Education"/>
+    <category term="Human Development"/>
+    <category term="Immigrant Education"/>
+    <category term="Latinx Education"/>
+    <category term="Learning"/>
+    <category term="Multicultural Education"/>
+    <category term="Native Education"/>
+    <category term="Parents and Parenting"/>
+    <category term="Pedagogy"/>
+    <category term="Progressive Education"/>
+    <category term="Race in Education"/>
+    <category term="Racial and Ethnic Studies"/>
+    <category term="School Choice"/>
+    <category term="School Funding"/>
+    <category term="School Reform"/>
+    <category term="Segregation / Integration"/>
+    <category term="Social Emotional Learning"/>
+    <category term="Social Reproduction"/>
+    <category term="Socio - Constructivism"/>
+    <category term="Special Education"/>
+    <category term="Testing"/>
+    <category term="Tracking in Schools"/>
+    <category term="Whiteness and Education"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">TAGS</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://pedagogyandpower.org/items/browse?page=6&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=omeka-xml" accessDate="2018-12-21T09:46:11+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>6</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>52</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="6" public="1" featured="0">
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="2">
+                <text>http://blogs.sbschools.org/vikingvibe/2018/05/07/the-racial-achievement-gap-in-south-brunswick/</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="86">
+                <text>The Racial Achievement Gap in South Brunswick</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="87">
+                <text>Elementary Tracking </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="88">
+                <text>Blog Post</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="24" public="1" featured="0">
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="20">
+                <text>https://www.fastcompany.com/3066750/altschool-wants-schools-to-be-more-like-a-social-network</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="21">
+                <text>Schools Should be More Like a Social Network</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="22">
+                <text>Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="23">
+                <text>Fast Company</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="24">
+                <text>Video</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+</itemContainer>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://pedagogyandpower.org/items/browse?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=omeka-xml" accessDate="2018-12-21T09:46:10+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>6</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>52</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="18" public="1" featured="0">
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="14">
+                <text>https://www.npr.org/sections/ed/2018/02/04/582468315/why-schools-fail-to-teach-slaverys-hard-history?utm_source=facebook.com&amp;amp;utm_medium=social&amp;amp;utm_campaign=npr&amp;amp;utm_term=nprnews&amp;amp;utm_content=20180204</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="40">
+                <text>Why Schools Fail to Teach Slavery's Hard History</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="41">
+                <text>Race in Eduation</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="42">
+                <text>Discusses the issues most school have with the way slavery is being taught </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="43">
+                <text>NPR Article</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="7" public="1" featured="0">
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3">
+                <text>https://whyy.org/episodes/schooled-season-two-trailer/</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="82">
+                <text>You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="83">
+                <text>Poverty in Philadelphia Schools</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="84">
+                <text>This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="85">
+                <text>Podcast</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+</itemContainer>

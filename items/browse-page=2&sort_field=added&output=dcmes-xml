@@ -1,0 +1,68 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/16">
+<dc:title>Family by Family, How School Segregation Still Happens</dc:title>
+<dc:subject>Segregation</dc:subject>
+<dc:description>School choice supports segregation in New York City</dc:description>
+<dc:source>https://www.nytimes.com/2017/04/28/nyregion/school-segregation-nyc-district-3.html</dc:source>
+<dc:format>New York Times Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/17">
+<dc:title>Chapel Hill-Carrboro schools replacing suspensions with ‘restorative’ conversations</dc:title>
+<dc:subject>Discipline</dc:subject>
+<dc:source>http://www.heraldsun.com/news/local/education/article190535559.html</dc:source>
+<dc:format>Newspaper Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/18">
+<dc:title>Why Schools Fail to Teach Slavery&#039;s Hard History</dc:title>
+<dc:subject>Race in Eduation</dc:subject>
+<dc:description>Discusses the issues most school have with the way slavery is being taught </dc:description>
+<dc:source>https://www.npr.org/sections/ed/2018/02/04/582468315/why-schools-fail-to-teach-slaverys-hard-history?utm_source=facebook.com&amp;amp;utm_medium=social&amp;amp;utm_campaign=npr&amp;amp;utm_term=nprnews&amp;amp;utm_content=20180204</dc:source>
+<dc:format>NPR Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/19">
+<dc:title>Success Academy’s Radical Educational Experiment</dc:title>
+<dc:subject>Education Reform, Charter Schools</dc:subject>
+<dc:description>This article talks about the major issues with charter schools and they way they focus on &quot;achievement&quot; and test scores.</dc:description>
+<dc:source>https://www.newyorker.com/magazine/2017/12/11/success-academys-radical-educational-experiment</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/20">
+<dc:title>The Case For Sex Education in Kindergarten</dc:title>
+<dc:subject>Progressive Ed, Sex Ed</dc:subject>
+<dc:source>https://www.pbs.org/newshour/health/spring-fever</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/21">
+<dc:title>Teaching Social Justice vs. Living in a Just Environment</dc:title>
+<dc:source>https://phillyfreeschool.org/blog/teaching-social-justice-vs-living-in-a-just-environment</dc:source>
+<dc:format>Description on the Philly Free School Website</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/22">
+<dc:title>Noam Chomsky on the Role of the Educational System</dc:title>
+<dc:subject>Progressive Ed</dc:subject>
+<dc:source>https://www.youtube.com/watch?v=4KgXaUNf4ls</dc:source>
+<dc:format>Youtube Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/23">
+<dc:title>Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda</dc:title>
+<dc:subject>Education Funding </dc:subject>
+<dc:description>Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.</dc:description>
+<dc:source>http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/24">
+<dc:title>Schools Should be More Like a Social Network</dc:title>
+<dc:description>Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.</dc:description>
+<dc:creator>Fast Company</dc:creator>
+<dc:source>https://www.fastcompany.com/3066750/altschool-wants-schools-to-be-more-like-a-social-network</dc:source>
+<dc:format>Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/25">
+<dc:title>The Danger of a Single Story</dc:title>
+<dc:subject>Hidden Curriculum</dc:subject>
+<dc:description>Ted Talk by Chimamanda Adichie- discusses growing up in Lagos Nigeria and how not seeing herself in children&#039;s books taught her about her place in literature. She explores the danger of having a &quot;single story&quot; about a person or culture.</dc:description>
+<dc:source>https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story#t-42395</dc:source>
+</rdf:Description></rdf:RDF>

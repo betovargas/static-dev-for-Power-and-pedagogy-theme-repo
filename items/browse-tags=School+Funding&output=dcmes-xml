@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/35">
+<dc:title>TAGS</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/33">
+<dc:title>School Funding Map</dc:title>
+<dc:subject>School Funding</dc:subject>
+<dc:description>NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.</dc:description>
+<dc:source>https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem</dc:source>
+</rdf:Description></rdf:RDF>

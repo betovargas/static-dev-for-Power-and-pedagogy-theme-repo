@@ -1,0 +1,70 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/12">
+<dc:title>Government Watchdog Finds Racial Bias in School Discipline</dc:title>
+<dc:subject>Civil Rights, Discipline</dc:subject>
+<dc:source>https://mobile.nytimes.com/2018/04/04/us/politics/racial-bias-school-discipline-policies.html?smid=fb-nytimes&amp;amp;smtyp=cur</dc:source>
+<dc:format>New York Times Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/23">
+<dc:title>Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda</dc:title>
+<dc:subject>Education Funding </dc:subject>
+<dc:description>Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.</dc:description>
+<dc:source>http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/16">
+<dc:title>Family by Family, How School Segregation Still Happens</dc:title>
+<dc:subject>Segregation</dc:subject>
+<dc:description>School choice supports segregation in New York City</dc:description>
+<dc:source>https://www.nytimes.com/2017/04/28/nyregion/school-segregation-nyc-district-3.html</dc:source>
+<dc:format>New York Times Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/10">
+<dc:title>Do Schools Kill Creativity?</dc:title>
+<dc:subject>Progressive Ed</dc:subject>
+<dc:source>https://www.youtube.com/watch?v=iG9CE55wbtY</dc:source>
+<dc:format>Ted Talk Youtube Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/39">
+<dc:title>De Blasio’s Plan for NYC Schools Isn’t Anti-Asian. It’s Anti-Racist.</dc:title>
+<dc:description>This Op-Ed in the NY Times supports the efforts to reform admissions into the top public high schools in NY and stop using a single standardized test to decide admissions</dc:description>
+<dc:source>https://nyti.ms/2JIbF27</dc:source>
+<dc:identifier>School Choice, High Stakes Testing</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/27">
+<dc:title>Choosing a School for my Daughter in a Segregated City</dc:title>
+<dc:subject>School Choice, Segregation</dc:subject>
+<dc:description>NYT Magazine article from Nikole Hannah-Jones on choosing to send her daughter to a NY city public school, rather than a private or magnet school.</dc:description>
+<dc:source>https://www.nytimes.com/2016/06/12/magazine/choosing-a-school-for-my-daughter-in-a-segregated-city.html?mcubz=3</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/17">
+<dc:title>Chapel Hill-Carrboro schools replacing suspensions with ‘restorative’ conversations</dc:title>
+<dc:subject>Discipline</dc:subject>
+<dc:source>http://www.heraldsun.com/news/local/education/article190535559.html</dc:source>
+<dc:format>Newspaper Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/9">
+<dc:title>Build a School in the Cloud</dc:title>
+<dc:subject>Progressive Ed</dc:subject>
+<dc:description>A great ted talk that talks about self-organized learning and the power of interest and encouragement in learning and how obsolete our current system of learning is.</dc:description>
+<dc:source>https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?referrer=playlist-re_imagining_school#t-1237815</dc:source>
+<dc:format>Ted Talk Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/15">
+<dc:title>Are Private Schools Immoral?
+A conversation with Nikole Hannah-Jones about race, education, and hypocrisy.</dc:title>
+<dc:subject>Civil Rights, Funding, Race in Education</dc:subject>
+<dc:description>Public schools could be benefitting from gentrification but white families are sending their children to private schools.</dc:description>
+<dc:source>https://www.theatlantic.com/education/archive/2017/12/progressives-are-undermining-public-schools/548084/?utm_source=atlfb</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/49">
+<dc:title>Are Crows the Ultimate Problem Solvers? | Inside the Animal Mind | BBC Earth</dc:title>
+<dc:description>Shows the results of behaviorism on a crow</dc:description>
+<dc:source>https://www.youtube.com/watch?v=cbSu2PXOTOc</dc:source>
+<dc:identifier>Behaviorism</dc:identifier>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,74 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/16">
+<dc:title>Family by Family, How School Segregation Still Happens</dc:title>
+<dc:subject>Segregation</dc:subject>
+<dc:description>School choice supports segregation in New York City</dc:description>
+<dc:source>https://www.nytimes.com/2017/04/28/nyregion/school-segregation-nyc-district-3.html</dc:source>
+<dc:format>New York Times Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/15">
+<dc:title>Are Private Schools Immoral?
+A conversation with Nikole Hannah-Jones about race, education, and hypocrisy.</dc:title>
+<dc:subject>Civil Rights, Funding, Race in Education</dc:subject>
+<dc:description>Public schools could be benefitting from gentrification but white families are sending their children to private schools.</dc:description>
+<dc:source>https://www.theatlantic.com/education/archive/2017/12/progressives-are-undermining-public-schools/548084/?utm_source=atlfb</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/14">
+<dc:title>My Little Hundred Million</dc:title>
+<dc:subject>funding</dc:subject>
+<dc:description>This podcast discusses the problem with educational philanthropy, the importance of lifting up &quot;weak links&quot; and not giving unnecessary support to &quot;strong links&quot;</dc:description>
+<dc:source>http://revisionisthistory.com/episodes/06-my-little-hundred-million</dc:source>
+<dc:format>Podcast</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/13">
+<dc:title>How America&#039;s Public Schools Keep Kids in Poverty</dc:title>
+<dc:subject>Civil Rights, Funding</dc:subject>
+<dc:description>A ted talk about equality, race, and poverty in schools</dc:description>
+<dc:source>https://www.youtube.com/watch?v=7O7BMa9XGXE</dc:source>
+<dc:format>Ted Talk Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/12">
+<dc:title>Government Watchdog Finds Racial Bias in School Discipline</dc:title>
+<dc:subject>Civil Rights, Discipline</dc:subject>
+<dc:source>https://mobile.nytimes.com/2018/04/04/us/politics/racial-bias-school-discipline-policies.html?smid=fb-nytimes&amp;amp;smtyp=cur</dc:source>
+<dc:format>New York Times Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/11">
+<dc:title>Why Poor Schools Can&#039;t Win at Standardized Testing</dc:title>
+<dc:subject>testing, funding</dc:subject>
+<dc:description>The companies that create the most important state and national exams also publish textbooks that contain many of the answers. Unfortunately, low-income school districts can’t afford to buy them.</dc:description>
+<dc:source>https://www.theatlantic.com/education/archive/2014/07/why-poor-schools-cant-win-at-standardized-testing/374287/?utm_source=SFFB</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/10">
+<dc:title>Do Schools Kill Creativity?</dc:title>
+<dc:subject>Progressive Ed</dc:subject>
+<dc:source>https://www.youtube.com/watch?v=iG9CE55wbtY</dc:source>
+<dc:format>Ted Talk Youtube Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/9">
+<dc:title>Build a School in the Cloud</dc:title>
+<dc:subject>Progressive Ed</dc:subject>
+<dc:description>A great ted talk that talks about self-organized learning and the power of interest and encouragement in learning and how obsolete our current system of learning is.</dc:description>
+<dc:source>https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?referrer=playlist-re_imagining_school#t-1237815</dc:source>
+<dc:format>Ted Talk Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/8">
+<dc:title>When Parents Teach Children (and Vice Versa)</dc:title>
+<dc:subject>Progressive Ed</dc:subject>
+<dc:description>This article talks about the benefits of having elementary school students teaching their parents in order to get parents engaged.</dc:description>
+<dc:source>https://www.nytimes.com/2018/03/13/opinion/children-teaching-parents.html?rref=collection%2Ftimestopic%2FHomework&amp;amp;action=click&amp;amp;contentCollection=timestopics&amp;amp;region=stream&amp;amp;module=stream_unit&amp;amp;version=latest&amp;amp;contentPlacement=5&amp;amp;pgtype=collection</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/7">
+<dc:title>You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary</dc:title>
+<dc:subject>Poverty in Philadelphia Schools</dc:subject>
+<dc:description>This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.</dc:description>
+<dc:source>https://whyy.org/episodes/schooled-season-two-trailer/</dc:source>
+<dc:format>Podcast</dc:format>
+</rdf:Description></rdf:RDF>

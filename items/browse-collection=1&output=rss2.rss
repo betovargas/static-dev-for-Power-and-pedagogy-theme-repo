@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Pedagogy and Power]]></title>
+    <link>https://pedagogyandpower.org/items/browse?collection=1&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Fri, 21 Dec 2018 09:43:32 +0000</pubDate>
+    <managingEditor>digitalscholarship@swarthmore.edu (Pedagogy and Power)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Unequal Opportunities: Fewer Resources, Worse Outcomes for Students in Schools with Concentrated Poverty]]></title>
+      <link>https://pedagogyandpower.org/items/show/52</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Unequal Opportunities: Fewer Resources, Worse Outcomes for Students in Schools with Concentrated Poverty</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This article has a great graphic about course offerings in Virginia based upon the poverty levels of the schools. Would be a cool accompaniment to Jean Anyon</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://www.thecommonwealthinstitute.org/2017/10/26/unequal-opportunities-fewer-resources-worse-outcomes-for-students-in-schools-with-concentrated-poverty/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Hidden Curriculum of work</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></description>
+      <pubDate>Sun, 05 Aug 2018 22:52:40 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Love is All You Need (Full Length)]]></title>
+      <link>https://pedagogyandpower.org/items/show/51</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Love is All You Need (Full Length)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This short film portrays a fictional world where being homosexual is the norm and heterosexual peoples are ostracized and discriminated against</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?time_continue=3&amp;v=3ROXTFfkcfo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Hidden Curriculum, LGBT Issues</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></description>
+      <pubDate>Sun, 05 Aug 2018 22:52:40 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The Hidden Curricula of Education]]></title>
+      <link>https://pedagogyandpower.org/items/show/46</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Hidden Curricula of Education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">From description: Douglas Kellner, Professor George F. Kneller Philosophy of Education Chair at UCLA, describes the hidden curriculum in modern education. Schooling tends to be a conservative force; it propagates the status quo. What can we do to make education more progressive?</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=afBF-ZQgVBs</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Hidden Curriculum</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></description>
+      <pubDate>Sun, 05 Aug 2018 22:52:40 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The Danger of a Single Story]]></title>
+      <link>https://pedagogyandpower.org/items/show/25</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Danger of a Single Story</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Hidden Curriculum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Ted Talk by Chimamanda Adichie- discusses growing up in Lagos Nigeria and how not seeing herself in children's books taught her about her place in literature. She explores the danger of having a "single story" about a person or culture.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story#t-42395</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></description>
+      <pubDate>Sun, 29 Jul 2018 03:56:26 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

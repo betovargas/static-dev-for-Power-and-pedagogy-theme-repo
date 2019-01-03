@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=5&amp;sort_field=Dublin+Core,Title&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:46:07+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=5&amp;sort_field=Dublin+Core,Title&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=5&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/4?page=5&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=5&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=5&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/12</id>
+    <title><![CDATA[Government Watchdog Finds Racial Bias in School Discipline]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/12"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Government Watchdog Finds Racial Bias in School Discipline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Civil Rights, Discipline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://mobile.nytimes.com/2018/04/04/us/politics/racial-bias-school-discipline-policies.html?smid=fb-nytimes&amp;smtyp=cur</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">New York Times Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/23</id>
+    <title><![CDATA[Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda]]></title>
+    <summary><![CDATA[Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/23"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Education Funding </div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/16</id>
+    <title><![CDATA[Family by Family, How School Segregation Still Happens]]></title>
+    <summary><![CDATA[School choice supports segregation in New York City]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/16"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Family by Family, How School Segregation Still Happens</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Segregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">School choice supports segregation in New York City</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/2017/04/28/nyregion/school-segregation-nyc-district-3.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">New York Times Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/10</id>
+    <title><![CDATA[Do Schools Kill Creativity?]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/10"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Do Schools Kill Creativity?</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=iG9CE55wbtY</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Ted Talk Youtube Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/39</id>
+    <title><![CDATA[De Blasio’s Plan for NYC Schools Isn’t Anti-Asian. It’s Anti-Racist.]]></title>
+    <summary><![CDATA[This Op-Ed in the NY Times supports the efforts to reform admissions into the top public high schools in NY and stop using a single standardized test to decide admissions]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/39"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">De Blasio’s Plan for NYC Schools Isn’t Anti-Asian. It’s Anti-Racist.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This Op-Ed in the NY Times supports the efforts to reform admissions into the top public high schools in NY and stop using a single standardized test to decide admissions</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://nyti.ms/2JIbF27</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">School Choice, High Stakes Testing</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/27</id>
+    <title><![CDATA[Choosing a School for my Daughter in a Segregated City]]></title>
+    <summary><![CDATA[NYT Magazine article from Nikole Hannah-Jones on choosing to send her daughter to a NY city public school, rather than a private or magnet school.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/27"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Choosing a School for my Daughter in a Segregated City</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Choice, Segregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">NYT Magazine article from Nikole Hannah-Jones on choosing to send her daughter to a NY city public school, rather than a private or magnet school.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/2016/06/12/magazine/choosing-a-school-for-my-daughter-in-a-segregated-city.html?mcubz=3</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/17</id>
+    <title><![CDATA[Chapel Hill-Carrboro schools replacing suspensions with ‘restorative’ conversations]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/17"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Chapel Hill-Carrboro schools replacing suspensions with ‘restorative’ conversations</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Discipline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://www.heraldsun.com/news/local/education/article190535559.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Newspaper Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/9</id>
+    <title><![CDATA[Build a School in the Cloud]]></title>
+    <summary><![CDATA[A great ted talk that talks about self-organized learning and the power of interest and encouragement in learning and how obsolete our current system of learning is.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/9"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Build a School in the Cloud</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A great ted talk that talks about self-organized learning and the power of interest and encouragement in learning and how obsolete our current system of learning is.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?referrer=playlist-re_imagining_school#t-1237815</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Ted Talk Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/15</id>
+    <title><![CDATA[Are Private Schools Immoral?<br />
+A conversation with Nikole Hannah-Jones about race, education, and hypocrisy.]]></title>
+    <summary><![CDATA[Public schools could be benefitting from gentrification but white families are sending their children to private schools.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/15"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Are Private Schools Immoral?<br />
+A conversation with Nikole Hannah-Jones about race, education, and hypocrisy.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Civil Rights, Funding, Race in Education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Public schools could be benefitting from gentrification but white families are sending their children to private schools.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.theatlantic.com/education/archive/2017/12/progressives-are-undermining-public-schools/548084/?utm_source=atlfb</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/49</id>
+    <title><![CDATA[Are Crows the Ultimate Problem Solvers? | Inside the Animal Mind | BBC Earth]]></title>
+    <summary><![CDATA[Shows the results of behaviorism on a crow]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/49"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Are Crows the Ultimate Problem Solvers? | Inside the Animal Mind | BBC Earth</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Shows the results of behaviorism on a crow</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=cbSu2PXOTOc</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Behaviorism</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

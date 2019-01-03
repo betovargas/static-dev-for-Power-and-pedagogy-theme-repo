@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=6&amp;sort_field=Dublin+Core,Title&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:46:11+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=6&amp;sort_field=Dublin+Core,Title&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/5?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=6&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/18</id>
+    <title><![CDATA[Why Schools Fail to Teach Slavery&#039;s Hard History]]></title>
+    <summary><![CDATA[Discusses the issues most school have with the way slavery is being taught ]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/18"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Why Schools Fail to Teach Slavery&#039;s Hard History</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Race in Eduation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Discusses the issues most school have with the way slavery is being taught </div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/sections/ed/2018/02/04/582468315/why-schools-fail-to-teach-slaverys-hard-history?utm_source=facebook.com&amp;utm_medium=social&amp;utm_campaign=npr&amp;utm_term=nprnews&amp;utm_content=20180204</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">NPR Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/7</id>
+    <title><![CDATA[You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary]]></title>
+    <summary><![CDATA[This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/7"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Poverty in Philadelphia Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://whyy.org/episodes/schooled-season-two-trailer/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Podcast</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/33">
+<dc:title>School Funding Map</dc:title>
+<dc:subject>School Funding</dc:subject>
+<dc:description>NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.</dc:description>
+<dc:source>https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/24">
+<dc:title>Schools Should be More Like a Social Network</dc:title>
+<dc:description>Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.</dc:description>
+<dc:creator>Fast Company</dc:creator>
+<dc:source>https://www.fastcompany.com/3066750/altschool-wants-schools-to-be-more-like-a-social-network</dc:source>
+<dc:format>Video</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/19">
+<dc:title>Success Academy’s Radical Educational Experiment</dc:title>
+<dc:subject>Education Reform, Charter Schools</dc:subject>
+<dc:description>This article talks about the major issues with charter schools and they way they focus on &quot;achievement&quot; and test scores.</dc:description>
+<dc:source>https://www.newyorker.com/magazine/2017/12/11/success-academys-radical-educational-experiment</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/35">
+<dc:title>TAGS</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/21">
+<dc:title>Teaching Social Justice vs. Living in a Just Environment</dc:title>
+<dc:source>https://phillyfreeschool.org/blog/teaching-social-justice-vs-living-in-a-just-environment</dc:source>
+<dc:format>Description on the Philly Free School Website</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/20">
+<dc:title>The Case For Sex Education in Kindergarten</dc:title>
+<dc:subject>Progressive Ed, Sex Ed</dc:subject>
+<dc:source>https://www.pbs.org/newshour/health/spring-fever</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/25">
+<dc:title>The Danger of a Single Story</dc:title>
+<dc:subject>Hidden Curriculum</dc:subject>
+<dc:description>Ted Talk by Chimamanda Adichie- discusses growing up in Lagos Nigeria and how not seeing herself in children&#039;s books taught her about her place in literature. She explores the danger of having a &quot;single story&quot; about a person or culture.</dc:description>
+<dc:source>https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story#t-42395</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/46">
+<dc:title>The Hidden Curricula of Education</dc:title>
+<dc:description>From description: Douglas Kellner, Professor George F. Kneller Philosophy of Education Chair at UCLA, describes the hidden curriculum in modern education. Schooling tends to be a conservative force; it propagates the status quo. What can we do to make education more progressive?</dc:description>
+<dc:source>https://www.youtube.com/watch?v=afBF-ZQgVBs</dc:source>
+<dc:identifier>Hidden Curriculum</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/47">
+<dc:title>The key to effective educational science videos</dc:title>
+<dc:description>How to effectively teach science, especially when many people have (incorrect) preconceptions</dc:description>
+<dc:source>https://www.youtube.com/watch?v=RQaW2bFieo8</dc:source>
+<dc:identifier>Science Education, How we learn</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/55">
+<dc:title>The nation is focused on students and gun violence. But kids in urban schools want to know, where’s everybody been?</dc:title>
+<dc:description>This is a critique of the recent florida gun movement, because this has been happening in urban schools for years, why have the media not covered this sooner?</dc:description>
+<dc:source>https://www.washingtonpost.com/local/the-nation-is-focused-on-students-and-gun-violence-but-kids-in-urban-schools-want-to-know-wheres-everybody-been/2018/03/12/3a506ff4-2633-11e8-bc72-077aa4dab9ef_story.html?utm_term=.fe02bc4b3c4a</dc:source>
+<dc:identifier>guns in schools, racism</dc:identifier>
+</rdf:Description></rdf:RDF>

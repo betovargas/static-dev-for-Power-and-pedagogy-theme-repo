@@ -1,0 +1,69 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/7">
+<dc:title>You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary</dc:title>
+<dc:subject>Poverty in Philadelphia Schools</dc:subject>
+<dc:description>This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.</dc:description>
+<dc:source>https://whyy.org/episodes/schooled-season-two-trailer/</dc:source>
+<dc:format>Podcast</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/18">
+<dc:title>Why Schools Fail to Teach Slavery&#039;s Hard History</dc:title>
+<dc:subject>Race in Eduation</dc:subject>
+<dc:description>Discusses the issues most school have with the way slavery is being taught </dc:description>
+<dc:source>https://www.npr.org/sections/ed/2018/02/04/582468315/why-schools-fail-to-teach-slaverys-hard-history?utm_source=facebook.com&amp;amp;utm_medium=social&amp;amp;utm_campaign=npr&amp;amp;utm_term=nprnews&amp;amp;utm_content=20180204</dc:source>
+<dc:format>NPR Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/11">
+<dc:title>Why Poor Schools Can&#039;t Win at Standardized Testing</dc:title>
+<dc:subject>testing, funding</dc:subject>
+<dc:description>The companies that create the most important state and national exams also publish textbooks that contain many of the answers. Unfortunately, low-income school districts can’t afford to buy them.</dc:description>
+<dc:source>https://www.theatlantic.com/education/archive/2014/07/why-poor-schools-cant-win-at-standardized-testing/374287/?utm_source=SFFB</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/38">
+<dc:title>Why Are New York’s Schools Segregated? It’s Not as Simple as Housing</dc:title>
+<dc:description>This article looks at how NY is segregated and how school choice affects segregation. It works to counteract the narrative that school segregation is solely a product of housing.</dc:description>
+<dc:source>https://nyti.ms/2KxhfVI</dc:source>
+<dc:identifier>Segregation, school Choice</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/8">
+<dc:title>When Parents Teach Children (and Vice Versa)</dc:title>
+<dc:subject>Progressive Ed</dc:subject>
+<dc:description>This article talks about the benefits of having elementary school students teaching their parents in order to get parents engaged.</dc:description>
+<dc:source>https://www.nytimes.com/2018/03/13/opinion/children-teaching-parents.html?rref=collection%2Ftimestopic%2FHomework&amp;amp;action=click&amp;amp;contentCollection=timestopics&amp;amp;region=stream&amp;amp;module=stream_unit&amp;amp;version=latest&amp;amp;contentPlacement=5&amp;amp;pgtype=collection</dc:source>
+<dc:format>Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/44">
+<dc:title>Waiting for Superman
+</dc:title>
+<dc:description>Documentary about our inadequate school system and reform efforts</dc:description>
+<dc:source>https://www.takepart.com/waiting-for-superman/resources/index.html</dc:source>
+<dc:identifier>School Reform</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/45">
+<dc:title>US Pell Grants and Head Start Spending</dc:title>
+<dc:description>Has all kinds of government data on education spending, outcomes, and much more</dc:description>
+<dc:source>https://usafacts.org/missions/secure-liberty/15#pell_grants_and_head_start</dc:source>
+<dc:identifier>Education Data</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/52">
+<dc:title>Unequal Opportunities: Fewer Resources, Worse Outcomes for Students in Schools with Concentrated Poverty</dc:title>
+<dc:description>This article has a great graphic about course offerings in Virginia based upon the poverty levels of the schools. Would be a cool accompaniment to Jean Anyon</dc:description>
+<dc:source>http://www.thecommonwealthinstitute.org/2017/10/26/unequal-opportunities-fewer-resources-worse-outcomes-for-students-in-schools-with-concentrated-poverty/</dc:source>
+<dc:identifier>Hidden Curriculum of work</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/56">
+<dc:title>Trump’s School Safety Commission Won’t Look at Guns, Betsy DeVos Says</dc:title>
+<dc:source>https://www.nytimes.com/2018/06/05/us/politics/devos-guns-school-safety-commission.html</dc:source>
+<dc:identifier>guns in schools</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/42">
+<dc:title>The tyranny of the curriculum: Shawn Cornally at TEDxEastsidePrep</dc:title>
+<dc:description>How a school in Iowa can combat the hidden curriculum of most contemporary schools through create project based learning and quasi-free schooling</dc:description>
+<dc:source>https://www.youtube.com/watch?v=aldMBgT6u-4</dc:source>
+<dc:identifier>Hidden Curriculum, Unschooling</dc:identifier>
+</rdf:Description></rdf:RDF>

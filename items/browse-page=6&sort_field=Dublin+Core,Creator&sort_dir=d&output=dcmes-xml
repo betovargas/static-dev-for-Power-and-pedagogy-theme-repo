@@ -1,0 +1,18 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/6">
+<dc:title>The Racial Achievement Gap in South Brunswick</dc:title>
+<dc:subject>Elementary Tracking </dc:subject>
+<dc:source>http://blogs.sbschools.org/vikingvibe/2018/05/07/the-racial-achievement-gap-in-south-brunswick/</dc:source>
+<dc:format>Blog Post</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/24">
+<dc:title>Schools Should be More Like a Social Network</dc:title>
+<dc:description>Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.</dc:description>
+<dc:creator>Fast Company</dc:creator>
+<dc:source>https://www.fastcompany.com/3066750/altschool-wants-schools-to-be-more-like-a-social-network</dc:source>
+<dc:format>Video</dc:format>
+</rdf:Description></rdf:RDF>

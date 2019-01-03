@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?collection=2&amp;sort_field=Dublin+Core,Creator&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:43:36+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?collection=2&amp;sort_field=Dublin+Core,Creator&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?collection=2&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?collection=2&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/13</id>
+    <title><![CDATA[How America&#039;s Public Schools Keep Kids in Poverty]]></title>
+    <summary><![CDATA[A ted talk about equality, race, and poverty in schools]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/13"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How America&#039;s Public Schools Keep Kids in Poverty</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Civil Rights, Funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A ted talk about equality, race, and poverty in schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=7O7BMa9XGXE</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Ted Talk Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/14</id>
+    <title><![CDATA[My Little Hundred Million]]></title>
+    <summary><![CDATA[This podcast discusses the problem with educational philanthropy, the importance of lifting up &quot;weak links&quot; and not giving unnecessary support to &quot;strong links&quot;]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/14"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">My Little Hundred Million</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This podcast discusses the problem with educational philanthropy, the importance of lifting up &quot;weak links&quot; and not giving unnecessary support to &quot;strong links&quot;</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://revisionisthistory.com/episodes/06-my-little-hundred-million</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Podcast</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/23</id>
+    <title><![CDATA[Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda]]></title>
+    <summary><![CDATA[Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/23"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Education Funding </div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/33</id>
+    <title><![CDATA[School Funding Map]]></title>
+    <summary><![CDATA[NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/33"/>
+    <category term="Education Policy"/>
+    <category term="School Funding"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">School Funding Map</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/45</id>
+    <title><![CDATA[US Pell Grants and Head Start Spending]]></title>
+    <summary><![CDATA[Has all kinds of government data on education spending, outcomes, and much more]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/45"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">US Pell Grants and Head Start Spending</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Has all kinds of government data on education spending, outcomes, and much more</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://usafacts.org/missions/secure-liberty/15#pell_grants_and_head_start</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Education Data</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

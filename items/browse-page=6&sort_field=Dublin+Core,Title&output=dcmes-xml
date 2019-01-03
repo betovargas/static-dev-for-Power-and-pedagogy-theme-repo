@@ -1,0 +1,19 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/18">
+<dc:title>Why Schools Fail to Teach Slavery&#039;s Hard History</dc:title>
+<dc:subject>Race in Eduation</dc:subject>
+<dc:description>Discusses the issues most school have with the way slavery is being taught </dc:description>
+<dc:source>https://www.npr.org/sections/ed/2018/02/04/582468315/why-schools-fail-to-teach-slaverys-hard-history?utm_source=facebook.com&amp;amp;utm_medium=social&amp;amp;utm_campaign=npr&amp;amp;utm_term=nprnews&amp;amp;utm_content=20180204</dc:source>
+<dc:format>NPR Article</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/7">
+<dc:title>You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary</dc:title>
+<dc:subject>Poverty in Philadelphia Schools</dc:subject>
+<dc:description>This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.</dc:description>
+<dc:source>https://whyy.org/episodes/schooled-season-two-trailer/</dc:source>
+<dc:format>Podcast</dc:format>
+</rdf:Description></rdf:RDF>

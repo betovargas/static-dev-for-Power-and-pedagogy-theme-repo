@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://pedagogyandpower.org/items/browse?tags=Discipline&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=omeka-xml" accessDate="2018-12-21T09:45:44+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>1</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="35" public="1" featured="0">
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="119">
+                <text>TAGS</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="39">
+        <name>Asian American Education</name>
+      </tag>
+      <tag tagId="28">
+        <name>Behaviorism</name>
+      </tag>
+      <tag tagId="54">
+        <name>Bilingual and Language Education</name>
+      </tag>
+      <tag tagId="37">
+        <name>Black Education</name>
+      </tag>
+      <tag tagId="49">
+        <name>Caring in Schools</name>
+      </tag>
+      <tag tagId="35">
+        <name>Constructivism</name>
+      </tag>
+      <tag tagId="46">
+        <name>Critical Pedagogy</name>
+      </tag>
+      <tag tagId="56">
+        <name>Discipline</name>
+      </tag>
+      <tag tagId="58">
+        <name>Early Childhood</name>
+      </tag>
+      <tag tagId="60">
+        <name>Education Leadership</name>
+      </tag>
+      <tag tagId="44">
+        <name>Education Policy</name>
+      </tag>
+      <tag tagId="52">
+        <name>Gender</name>
+      </tag>
+      <tag tagId="29">
+        <name>Hidden Curriculum</name>
+      </tag>
+      <tag tagId="59">
+        <name>Higher Education</name>
+      </tag>
+      <tag tagId="48">
+        <name>History of Education</name>
+      </tag>
+      <tag tagId="33">
+        <name>Human Development</name>
+      </tag>
+      <tag tagId="63">
+        <name>Immigrant Education</name>
+      </tag>
+      <tag tagId="38">
+        <name>Latinx Education</name>
+      </tag>
+      <tag tagId="45">
+        <name>Learning</name>
+      </tag>
+      <tag tagId="50">
+        <name>Multicultural Education</name>
+      </tag>
+      <tag tagId="40">
+        <name>Native Education</name>
+      </tag>
+      <tag tagId="42">
+        <name>Parents and Parenting</name>
+      </tag>
+      <tag tagId="43">
+        <name>Pedagogy</name>
+      </tag>
+      <tag tagId="32">
+        <name>Progressive Education</name>
+      </tag>
+      <tag tagId="34">
+        <name>Race in Education</name>
+      </tag>
+      <tag tagId="51">
+        <name>Racial and Ethnic Studies</name>
+      </tag>
+      <tag tagId="27">
+        <name>School Choice</name>
+      </tag>
+      <tag tagId="31">
+        <name>School Funding</name>
+      </tag>
+      <tag tagId="61">
+        <name>School Reform</name>
+      </tag>
+      <tag tagId="30">
+        <name>Segregation / Integration</name>
+      </tag>
+      <tag tagId="62">
+        <name>Social Emotional Learning</name>
+      </tag>
+      <tag tagId="36">
+        <name>Social Reproduction</name>
+      </tag>
+      <tag tagId="47">
+        <name>Socio - Constructivism</name>
+      </tag>
+      <tag tagId="53">
+        <name>Special Education</name>
+      </tag>
+      <tag tagId="55">
+        <name>Testing</name>
+      </tag>
+      <tag tagId="57">
+        <name>Tracking in Schools</name>
+      </tag>
+      <tag tagId="41">
+        <name>Whiteness and Education</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

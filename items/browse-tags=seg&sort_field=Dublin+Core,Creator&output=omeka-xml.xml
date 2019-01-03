@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://pedagogyandpower.org/items/browse?tags=seg&amp;sort_field=Dublin+Core%2CCreator&amp;output=omeka-xml" accessDate="2018-12-21T09:45:41+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>1</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="50" public="1" featured="0">
+    <fileContainer>
+      <file fileId="10">
+        <src>http://s3.amazonaws.com/sc-lib-ds-pedagogyandpower%2Foriginal%2F08749f3f7257ec5380f510fa7fd45d7b.jpg</src>
+        <authentication>59661df90ea25537173dc8a9b11d7c24</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="169">
+                <text>School Policy, Tracking</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="170">
+                <text>&lt;a href="https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/" target="_blank" rel="noreferrer noopener"&gt;https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/&lt;/a&gt;</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="171">
+                <text>Discusses school tracking and its connection to other forms of segregation</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="203">
+                <text>Modern-Day Segregation in Public Schools</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="68">
+        <name>race</name>
+      </tag>
+      <tag tagId="34">
+        <name>Race in Education</name>
+      </tag>
+      <tag tagId="72">
+        <name>seg</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

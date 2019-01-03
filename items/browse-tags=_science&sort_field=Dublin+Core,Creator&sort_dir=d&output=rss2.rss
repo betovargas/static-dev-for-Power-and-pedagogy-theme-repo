@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Pedagogy and Power]]></title>
+    <link>https://pedagogyandpower.org/items/browse?tags=%23science&amp;sort_field=Dublin+Core,Creator&amp;sort_dir=d&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Fri, 21 Dec 2018 09:45:50 +0000</pubDate>
+    <managingEditor>digitalscholarship@swarthmore.edu (Pedagogy and Power)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Kicking It Up a Notch: Becoming a Culturally Relevant Science Educator]]></title>
+      <link>https://pedagogyandpower.org/items/show/58</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Kicking It Up a Notch: Becoming a Culturally Relevant Science Educator</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This is about how to create a culturally relevent science education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://thenode.biologists.com/kicking-notch-becoming-culturally-relevant-science-educator/education/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Science Education</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></description>
+      <pubDate>Sun, 05 Aug 2018 22:52:40 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

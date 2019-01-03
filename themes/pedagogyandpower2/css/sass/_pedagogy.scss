@@ -1,0 +1,42 @@
+//need to center menu and make it smaller
+//Figure out logo/title 
+//Design theme page
+
+
+$main-color:#add8e6;
+
+body#main {
+	background-color:$main-color;
+}
+#content {
+    background-color: lighten($main-color, 10%);
+    margin-top:4px;
+        #primary {
+            float: right;
+            width: 100%;
+        }
+}
+
+#primary-nav {
+	margin: 0 auto;
+	ul.navigation.nav-menu {
+		width: 20%;
+		display: inline;
+	    li.nav-item {
+		    margin: 3px;
+		    float:left;
+		    position: relative;
+            a {
+                background-color: lighten($main-color, 10%);
+                padding: 9px;
+                font-family: $font-primary-family;
+                margin: 0 auto;
+          }
+	}
+    }
+}
+
+
+#search-container {
+	display:none;
+}

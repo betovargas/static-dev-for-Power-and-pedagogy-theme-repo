@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Pedagogy and Power]]></title>
+    <link>https://pedagogyandpower.org/items/browse?tags=language&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Fri, 21 Dec 2018 09:44:01 +0000</pubDate>
+    <managingEditor>digitalscholarship@swarthmore.edu (Pedagogy and Power)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Let's Stop Talking About The '30 Million Word Gap']]></title>
+      <link>https://pedagogyandpower.org/items/show/57</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Let&#039;s Stop Talking About The &#039;30 Million Word Gap&#039;</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Podcast about the so called 30-million word gap, how racial bias can effect studies and how we might need to rethink assumptions about early childhood education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/sections/ed/2018/06/01/615188051/lets-stop-talking-about-the-30-million-word-gap</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">english</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Early Childhood Education</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></description>
+      <pubDate>Sun, 05 Aug 2018 22:52:40 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

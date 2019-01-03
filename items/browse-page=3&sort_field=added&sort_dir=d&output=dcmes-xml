@@ -1,0 +1,62 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/38">
+<dc:title>Why Are New York’s Schools Segregated? It’s Not as Simple as Housing</dc:title>
+<dc:description>This article looks at how NY is segregated and how school choice affects segregation. It works to counteract the narrative that school segregation is solely a product of housing.</dc:description>
+<dc:source>https://nyti.ms/2KxhfVI</dc:source>
+<dc:identifier>Segregation, school Choice</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/37">
+<dc:title>New Jersey Law Codifies School Segregation, Suit Says</dc:title>
+<dc:description>Article examines a lawsuit against New Jersey saying that the state is still illegally segregated</dc:description>
+<dc:source>https://nyti.ms/2It7t5Q</dc:source>
+<dc:identifier>Segregation, Integration</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/36">
+<dc:title>‘It Has to Start Somewhere’: Grass-Roots Drive to Integrate New York Schools</dc:title>
+<dc:description>Article talks about a growing movement to integrate New York Public schools and how the grassroots movement is growing</dc:description>
+<dc:source>https://nyti.ms/2KQlUlo</dc:source>
+<dc:identifier>Segregation, Integration</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/35">
+<dc:title>TAGS</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/33">
+<dc:title>School Funding Map</dc:title>
+<dc:subject>School Funding</dc:subject>
+<dc:description>NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.</dc:description>
+<dc:source>https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/32">
+<dc:title>Neuroscientist Explains One Concept in 5 Levels of Difficulty</dc:title>
+<dc:subject>Spiral Curriculum</dc:subject>
+<dc:description>Wired Video: Neuroscientist explains the same scientific concept to a 5 year old, 13 year old, college student, grad student, and industry expert.</dc:description>
+<dc:source>https://www.youtube.com/watch?v=opqIa5Jiwuw</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/31">
+<dc:title>NEED THE SOURCE From Malcolm London and Faltama Seid in More than a Score</dc:title>
+<dc:subject>High-Stakes Testing</dc:subject>
+<dc:description>Three student-authored poems written about the culture of high-stakes testing</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/30">
+<dc:title>More than a Score: giving students a solid chance</dc:title>
+<dc:subject>High-Stakes Testing</dc:subject>
+<dc:description>High-stakes testing from the editor of More than a Score</dc:description>
+<dc:source>https://www.youtube.com/watch?v=gL64chNiuJQ</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/29">
+<dc:title>Iconic Desegregation Photo</dc:title>
+<dc:subject>Desegregation</dc:subject>
+<dc:description>Iconic photos with Ruby leaving school with Federal Marshalls, Juxtaposing her age and size with the intensity of the situation</dc:description>
+<dc:source>https://rarehistoricalphotos.com/ruby-bridges-1960/</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/28">
+<dc:title>The Problem We All Live With</dc:title>
+<dc:subject>Desegregation</dc:subject>
+<dc:description>Nikole Hannah-Jones on a case of accidental desegregation in Missouri; makes a compelling case for deseg, which contrasts with her other articles.</dc:description>
+<dc:source>Part 1: https://www.thisamericanlife.org/562/the-problem-we-all-live-with-part-one
+Part 2: https://www.thisamericanlife.org/563/the-problem-we-all-live-with-part-two</dc:source>
+</rdf:Description></rdf:RDF>

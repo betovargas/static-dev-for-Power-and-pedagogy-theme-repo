@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=4&amp;sort_field=Dublin+Core,Creator&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:46:06+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=4&amp;sort_field=Dublin+Core,Creator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=4&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/3?page=4&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/5?page=4&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=4&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/27</id>
+    <title><![CDATA[Choosing a School for my Daughter in a Segregated City]]></title>
+    <summary><![CDATA[NYT Magazine article from Nikole Hannah-Jones on choosing to send her daughter to a NY city public school, rather than a private or magnet school.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/27"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Choosing a School for my Daughter in a Segregated City</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Choice, Segregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">NYT Magazine article from Nikole Hannah-Jones on choosing to send her daughter to a NY city public school, rather than a private or magnet school.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/2016/06/12/magazine/choosing-a-school-for-my-daughter-in-a-segregated-city.html?mcubz=3</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/26</id>
+    <title><![CDATA[How The Systemic Segregation Of Schools Is Maintained By 'Individual Choices']]></title>
+    <summary><![CDATA[One hour long interview with Nikole Hannah-Jones- ties in to Cucchiara and highlights PA context]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/26"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How The Systemic Segregation Of Schools Is Maintained By 'Individual Choices'</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Choice</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">One hour long interview with Nikole Hannah-Jones- ties in to Cucchiara and highlights PA context</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/templates/transcript/transcript.php?storyId=509325266</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/25</id>
+    <title><![CDATA[The Danger of a Single Story]]></title>
+    <summary><![CDATA[Ted Talk by Chimamanda Adichie- discusses growing up in Lagos Nigeria and how not seeing herself in children's books taught her about her place in literature. She explores the danger of having a "single story" about a person or culture.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/25"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Danger of a Single Story</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Hidden Curriculum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Ted Talk by Chimamanda Adichie- discusses growing up in Lagos Nigeria and how not seeing herself in children's books taught her about her place in literature. She explores the danger of having a "single story" about a person or culture.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story#t-42395</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/23</id>
+    <title><![CDATA[Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda]]></title>
+    <summary><![CDATA[Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/23"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Education Funding </div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/22</id>
+    <title><![CDATA[Noam Chomsky on the Role of the Educational System]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/22"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Noam Chomsky on the Role of the Educational System</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=4KgXaUNf4ls</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Youtube Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/21</id>
+    <title><![CDATA[Teaching Social Justice vs. Living in a Just Environment]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/21"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Teaching Social Justice vs. Living in a Just Environment</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://phillyfreeschool.org/blog/teaching-social-justice-vs-living-in-a-just-environment</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Description on the Philly Free School Website</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/20</id>
+    <title><![CDATA[The Case For Sex Education in Kindergarten]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/20"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Case For Sex Education in Kindergarten</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed, Sex Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.pbs.org/newshour/health/spring-fever</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/19</id>
+    <title><![CDATA[Success Academy’s Radical Educational Experiment]]></title>
+    <summary><![CDATA[This article talks about the major issues with charter schools and they way they focus on &quot;achievement&quot; and test scores.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/19"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Success Academy’s Radical Educational Experiment</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Education Reform, Charter Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This article talks about the major issues with charter schools and they way they focus on &quot;achievement&quot; and test scores.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.newyorker.com/magazine/2017/12/11/success-academys-radical-educational-experiment</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/18</id>
+    <title><![CDATA[Why Schools Fail to Teach Slavery&#039;s Hard History]]></title>
+    <summary><![CDATA[Discusses the issues most school have with the way slavery is being taught ]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/18"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Why Schools Fail to Teach Slavery&#039;s Hard History</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Race in Eduation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Discusses the issues most school have with the way slavery is being taught </div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/sections/ed/2018/02/04/582468315/why-schools-fail-to-teach-slaverys-hard-history?utm_source=facebook.com&amp;utm_medium=social&amp;utm_campaign=npr&amp;utm_term=nprnews&amp;utm_content=20180204</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">NPR Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/17</id>
+    <title><![CDATA[Chapel Hill-Carrboro schools replacing suspensions with ‘restorative’ conversations]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/17"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Chapel Hill-Carrboro schools replacing suspensions with ‘restorative’ conversations</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Discipline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://www.heraldsun.com/news/local/education/article190535559.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Newspaper Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

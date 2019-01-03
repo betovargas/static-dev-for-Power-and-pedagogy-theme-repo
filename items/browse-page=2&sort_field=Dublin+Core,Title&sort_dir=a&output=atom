@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=2&amp;sort_field=Dublin+Core,Title&amp;sort_dir=a&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:45:59+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=2&amp;sort_field=Dublin+Core,Title&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/3?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/23</id>
+    <title><![CDATA[Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda]]></title>
+    <summary><![CDATA[Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/23"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Gates Foundation failures show philanthropists shouldn’t be setting America&#039;s public school agenda</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Education Funding </div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Using big money in order to try and change public schooling is never going to work, and just allows power and decisions to come from private donors.  Systematic, government-based change needs to happen in order for things to change.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://www.latimes.com/opinion/editorials/la-ed-gates-education-20160601-snap-story.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/12</id>
+    <title><![CDATA[Government Watchdog Finds Racial Bias in School Discipline]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/12"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Government Watchdog Finds Racial Bias in School Discipline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Civil Rights, Discipline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://mobile.nytimes.com/2018/04/04/us/politics/racial-bias-school-discipline-policies.html?smid=fb-nytimes&amp;smtyp=cur</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">New York Times Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/13</id>
+    <title><![CDATA[How America&#039;s Public Schools Keep Kids in Poverty]]></title>
+    <summary><![CDATA[A ted talk about equality, race, and poverty in schools]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/13"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How America&#039;s Public Schools Keep Kids in Poverty</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Civil Rights, Funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A ted talk about equality, race, and poverty in schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=7O7BMa9XGXE</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Ted Talk Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/41</id>
+    <title><![CDATA[How Entitled Parents Hurt Schools]]></title>
+    <summary><![CDATA[This article looks at how rich parents can weaken public schools by using the system to give their students the biggest advantage.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/41"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How Entitled Parents Hurt Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This article looks at how rich parents can weaken public schools by using the system to give their students the biggest advantage.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://nyti.ms/2KoC9py</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">School Choice, Rich Parents</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/54</id>
+    <title><![CDATA[How New Orleans Is Helping Its Students Succeed]]></title>
+    <summary><![CDATA[A really interesting positive take on complete charter school overhaul in New Orleans after Katrina.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/54"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How New Orleans Is Helping Its Students Succeed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A really interesting positive take on complete charter school overhaul in New Orleans after Katrina.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/2018/07/15/opinion/columnists/new-orleans-charter-schools-education-reform.html?action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=opinion-c-col-right-region&amp;region=opinion-c-col-right-region&amp;WT.nav=opinion-c-col-right-region</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Charter Schools, school reform</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/26</id>
+    <title><![CDATA[How The Systemic Segregation Of Schools Is Maintained By 'Individual Choices']]></title>
+    <summary><![CDATA[One hour long interview with Nikole Hannah-Jones- ties in to Cucchiara and highlights PA context]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/26"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How The Systemic Segregation Of Schools Is Maintained By 'Individual Choices'</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Choice</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">One hour long interview with Nikole Hannah-Jones- ties in to Cucchiara and highlights PA context</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/templates/transcript/transcript.php?storyId=509325266</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/29</id>
+    <title><![CDATA[Iconic Desegregation Photo]]></title>
+    <summary><![CDATA[Iconic photos with Ruby leaving school with Federal Marshalls, Juxtaposing her age and size with the intensity of the situation]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/29"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Iconic Desegregation Photo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Desegregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Iconic photos with Ruby leaving school with Federal Marshalls, Juxtaposing her age and size with the intensity of the situation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://rarehistoricalphotos.com/ruby-bridges-1960/</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/43</id>
+    <title><![CDATA[Is This Working?<br />
+<br />
+Stories of schools struggling with what to do with misbehaving kids. There&#039;s no general agreement about what teachers should do to discipline kids. And there&#039;s evidence that some of the most popular punishments actually may harm kids.]]></title>
+    <summary><![CDATA[Podcast about school discipline across America with focus on a restorative justice program in an urban public school]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/43"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Is This Working?<br />
+<br />
+Stories of schools struggling with what to do with misbehaving kids. There&#039;s no general agreement about what teachers should do to discipline kids. And there&#039;s evidence that some of the most popular punishments actually may harm kids.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Podcast about school discipline across America with focus on a restorative justice program in an urban public school</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.thisamericanlife.org/538/is-this-working</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">School Discipline</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/58</id>
+    <title><![CDATA[Kicking It Up a Notch: Becoming a Culturally Relevant Science Educator]]></title>
+    <summary><![CDATA[This is about how to create a culturally relevent science education]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/58"/>
+    <category term="#science"/>
+    <category term="#STEM"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Kicking It Up a Notch: Becoming a Culturally Relevant Science Educator</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This is about how to create a culturally relevent science education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://thenode.biologists.com/kicking-notch-becoming-culturally-relevant-science-educator/education/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Science Education</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/57</id>
+    <title><![CDATA[Let&#039;s Stop Talking About The &#039;30 Million Word Gap&#039;]]></title>
+    <summary><![CDATA[Podcast about the so called 30-million word gap, how racial bias can effect studies and how we might need to rethink assumptions about early childhood education]]></summary>
+    <updated>2018-10-10T04:32:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/57"/>
+    <category term="Bilingual and Language Education"/>
+    <category term="language"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Let&#039;s Stop Talking About The &#039;30 Million Word Gap&#039;</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Podcast about the so called 30-million word gap, how racial bias can effect studies and how we might need to rethink assumptions about early childhood education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/sections/ed/2018/06/01/615188051/lets-stop-talking-about-the-30-million-word-gap</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">english</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Early Childhood Education</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

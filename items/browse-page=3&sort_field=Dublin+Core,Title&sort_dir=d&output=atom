@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=3&amp;sort_field=Dublin+Core,Title&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:46:02+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=3&amp;sort_field=Dublin+Core,Title&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/2?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/4?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/24</id>
+    <title><![CDATA[Schools Should be More Like a Social Network]]></title>
+    <summary><![CDATA[Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/24"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Schools Should be More Like a Social Network</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Video which describes why schooling the way it has been done today is not working, and why making schools more like a social network would be cheaper and less expensive.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Fast Company</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.fastcompany.com/3066750/altschool-wants-schools-to-be-more-like-a-social-network</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/33</id>
+    <title><![CDATA[School Funding Map]]></title>
+    <summary><![CDATA[NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/33"/>
+    <category term="Education Policy"/>
+    <category term="School Funding"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">School Funding Map</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/22</id>
+    <title><![CDATA[Noam Chomsky on the Role of the Educational System]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/22"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Noam Chomsky on the Role of the Educational System</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=4KgXaUNf4ls</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Youtube Video</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/40</id>
+    <title><![CDATA[No Ethnic Group Owns Stuyvesant. All New Yorkers Do.]]></title>
+    <summary><![CDATA[This Op-Ed in the NY Times defends the current admissions practices as top NY public high schools and argues against ceasing to use a standardized test to determine admission into these schools]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/40"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">No Ethnic Group Owns Stuyvesant. All New Yorkers Do.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This Op-Ed in the NY Times defends the current admissions practices as top NY public high schools and argues against ceasing to use a standardized test to determine admission into these schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://nyti.ms/2MpeiYz</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">School Choice, High Stakes Testing</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/37</id>
+    <title><![CDATA[New Jersey Law Codifies School Segregation, Suit Says]]></title>
+    <summary><![CDATA[Article examines a lawsuit against New Jersey saying that the state is still illegally segregated]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/37"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">New Jersey Law Codifies School Segregation, Suit Says</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Article examines a lawsuit against New Jersey saying that the state is still illegally segregated</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://nyti.ms/2It7t5Q</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Segregation, Integration</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/32</id>
+    <title><![CDATA[Neuroscientist Explains One Concept in 5 Levels of Difficulty]]></title>
+    <summary><![CDATA[Wired Video: Neuroscientist explains the same scientific concept to a 5 year old, 13 year old, college student, grad student, and industry expert.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/32"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Neuroscientist Explains One Concept in 5 Levels of Difficulty</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Spiral Curriculum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Wired Video: Neuroscientist explains the same scientific concept to a 5 year old, 13 year old, college student, grad student, and industry expert.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=opqIa5Jiwuw</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/31</id>
+    <title><![CDATA[NEED THE SOURCE From Malcolm London and Faltama Seid in More than a Score]]></title>
+    <summary><![CDATA[Three student-authored poems written about the culture of high-stakes testing]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/31"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NEED THE SOURCE From Malcolm London and Faltama Seid in More than a Score</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">High-Stakes Testing</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Three student-authored poems written about the culture of high-stakes testing</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/14</id>
+    <title><![CDATA[My Little Hundred Million]]></title>
+    <summary><![CDATA[This podcast discusses the problem with educational philanthropy, the importance of lifting up &quot;weak links&quot; and not giving unnecessary support to &quot;strong links&quot;]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/14"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">My Little Hundred Million</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This podcast discusses the problem with educational philanthropy, the importance of lifting up &quot;weak links&quot; and not giving unnecessary support to &quot;strong links&quot;</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://revisionisthistory.com/episodes/06-my-little-hundred-million</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Podcast</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/30</id>
+    <title><![CDATA[More than a Score: giving students a solid chance]]></title>
+    <summary><![CDATA[High-stakes testing from the editor of More than a Score]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/30"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">More than a Score: giving students a solid chance</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">High-Stakes Testing</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">High-stakes testing from the editor of More than a Score</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=gL64chNiuJQ</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/50</id>
+    <title><![CDATA[Modern-Day Segregation in Public Schools]]></title>
+    <summary><![CDATA[Discusses school tracking and its connection to other forms of segregation]]></summary>
+    <updated>2018-10-10T15:35:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/50"/>
+    <link rel="enclosure" href="http://s3.amazonaws.com/sc-lib-ds-pedagogyandpower%2Foriginal%2F08749f3f7257ec5380f510fa7fd45d7b.jpg" type="image/jpeg" length="89604"/>
+    <category term="race"/>
+    <category term="Race in Education"/>
+    <category term="seg"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Modern-Day Segregation in Public Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Discusses school tracking and its connection to other forms of segregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text"><a href="https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/" target="_blank" rel="noreferrer noopener">https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/</a></div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">School Policy, Tracking</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

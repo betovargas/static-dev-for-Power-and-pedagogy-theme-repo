@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=2&amp;sort_field=Dublin+Core,Title&amp;sort_dir=d&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:45:59+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=2&amp;sort_field=Dublin+Core,Title&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/3?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=d&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/6</id>
+    <title><![CDATA[The Racial Achievement Gap in South Brunswick]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/6"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Racial Achievement Gap in South Brunswick</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Elementary Tracking </div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://blogs.sbschools.org/vikingvibe/2018/05/07/the-racial-achievement-gap-in-south-brunswick/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Blog Post</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/28</id>
+    <title><![CDATA[The Problem We All Live With]]></title>
+    <summary><![CDATA[Nikole Hannah-Jones on a case of accidental desegregation in Missouri; makes a compelling case for deseg, which contrasts with her other articles.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/28"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Problem We All Live With</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Desegregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Nikole Hannah-Jones on a case of accidental desegregation in Missouri; makes a compelling case for deseg, which contrasts with her other articles.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Part 1: https://www.thisamericanlife.org/562/the-problem-we-all-live-with-part-one<br />
+Part 2: https://www.thisamericanlife.org/563/the-problem-we-all-live-with-part-two</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/55</id>
+    <title><![CDATA[The nation is focused on students and gun violence. But kids in urban schools want to know, where’s everybody been?]]></title>
+    <summary><![CDATA[This is a critique of the recent florida gun movement, because this has been happening in urban schools for years, why have the media not covered this sooner?]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/55"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The nation is focused on students and gun violence. But kids in urban schools want to know, where’s everybody been?</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This is a critique of the recent florida gun movement, because this has been happening in urban schools for years, why have the media not covered this sooner?</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.washingtonpost.com/local/the-nation-is-focused-on-students-and-gun-violence-but-kids-in-urban-schools-want-to-know-wheres-everybody-been/2018/03/12/3a506ff4-2633-11e8-bc72-077aa4dab9ef_story.html?utm_term=.fe02bc4b3c4a</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">guns in schools, racism</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/47</id>
+    <title><![CDATA[The key to effective educational science videos]]></title>
+    <summary><![CDATA[How to effectively teach science, especially when many people have (incorrect) preconceptions]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/47"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The key to effective educational science videos</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">How to effectively teach science, especially when many people have (incorrect) preconceptions</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=RQaW2bFieo8</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Science Education, How we learn</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/46</id>
+    <title><![CDATA[The Hidden Curricula of Education]]></title>
+    <summary><![CDATA[From description: Douglas Kellner, Professor George F. Kneller Philosophy of Education Chair at UCLA, describes the hidden curriculum in modern education. Schooling tends to be a conservative force; it propagates the status quo. What can we do to make education more progressive?]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/46"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Hidden Curricula of Education</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">From description: Douglas Kellner, Professor George F. Kneller Philosophy of Education Chair at UCLA, describes the hidden curriculum in modern education. Schooling tends to be a conservative force; it propagates the status quo. What can we do to make education more progressive?</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=afBF-ZQgVBs</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Hidden Curriculum</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/25</id>
+    <title><![CDATA[The Danger of a Single Story]]></title>
+    <summary><![CDATA[Ted Talk by Chimamanda Adichie- discusses growing up in Lagos Nigeria and how not seeing herself in children's books taught her about her place in literature. She explores the danger of having a "single story" about a person or culture.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/25"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Danger of a Single Story</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Hidden Curriculum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Ted Talk by Chimamanda Adichie- discusses growing up in Lagos Nigeria and how not seeing herself in children's books taught her about her place in literature. She explores the danger of having a "single story" about a person or culture.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story#t-42395</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/20</id>
+    <title><![CDATA[The Case For Sex Education in Kindergarten]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/20"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Case For Sex Education in Kindergarten</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Progressive Ed, Sex Ed</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.pbs.org/newshour/health/spring-fever</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Article</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/21</id>
+    <title><![CDATA[Teaching Social Justice vs. Living in a Just Environment]]></title>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/21"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Teaching Social Justice vs. Living in a Just Environment</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://phillyfreeschool.org/blog/teaching-social-justice-vs-living-in-a-just-environment</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Description on the Philly Free School Website</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/35</id>
+    <title><![CDATA[TAGS]]></title>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/35"/>
+    <category term="Asian American Education"/>
+    <category term="Behaviorism"/>
+    <category term="Bilingual and Language Education"/>
+    <category term="Black Education"/>
+    <category term="Caring in Schools"/>
+    <category term="Constructivism"/>
+    <category term="Critical Pedagogy"/>
+    <category term="Discipline"/>
+    <category term="Early Childhood"/>
+    <category term="Education Leadership"/>
+    <category term="Education Policy"/>
+    <category term="Gender"/>
+    <category term="Hidden Curriculum"/>
+    <category term="Higher Education"/>
+    <category term="History of Education"/>
+    <category term="Human Development"/>
+    <category term="Immigrant Education"/>
+    <category term="Latinx Education"/>
+    <category term="Learning"/>
+    <category term="Multicultural Education"/>
+    <category term="Native Education"/>
+    <category term="Parents and Parenting"/>
+    <category term="Pedagogy"/>
+    <category term="Progressive Education"/>
+    <category term="Race in Education"/>
+    <category term="Racial and Ethnic Studies"/>
+    <category term="School Choice"/>
+    <category term="School Funding"/>
+    <category term="School Reform"/>
+    <category term="Segregation / Integration"/>
+    <category term="Social Emotional Learning"/>
+    <category term="Social Reproduction"/>
+    <category term="Socio - Constructivism"/>
+    <category term="Special Education"/>
+    <category term="Testing"/>
+    <category term="Tracking in Schools"/>
+    <category term="Whiteness and Education"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">TAGS</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/19</id>
+    <title><![CDATA[Success Academy’s Radical Educational Experiment]]></title>
+    <summary><![CDATA[This article talks about the major issues with charter schools and they way they focus on &quot;achievement&quot; and test scores.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/19"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Success Academy’s Radical Educational Experiment</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Education Reform, Charter Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This article talks about the major issues with charter schools and they way they focus on &quot;achievement&quot; and test scores.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.newyorker.com/magazine/2017/12/11/success-academys-radical-educational-experiment</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

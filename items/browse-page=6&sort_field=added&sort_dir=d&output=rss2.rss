@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Pedagogy and Power]]></title>
+    <link>https://pedagogyandpower.org/items/browse?page=6&amp;sort_field=added&amp;sort_dir=d&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Fri, 21 Dec 2018 09:46:11 +0000</pubDate>
+    <managingEditor>digitalscholarship@swarthmore.edu (Pedagogy and Power)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary]]></title>
+      <link>https://pedagogyandpower.org/items/show/7</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">You Shouldn’t Be Here: The story of Jovan Weaver and Wister Elementary</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Poverty in Philadelphia Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This podcast follows the story of a teacher who he himself went through the impoverished Philadelphia school system, and now works in an impoverished elementary school.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://whyy.org/episodes/schooled-season-two-trailer/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Podcast</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></description>
+      <pubDate>Fri, 20 Jul 2018 13:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The Racial Achievement Gap in South Brunswick]]></title>
+      <link>https://pedagogyandpower.org/items/show/6</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Racial Achievement Gap in South Brunswick</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Elementary Tracking </div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://blogs.sbschools.org/vikingvibe/2018/05/07/the-racial-achievement-gap-in-south-brunswick/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Blog Post</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></description>
+      <pubDate>Fri, 20 Jul 2018 13:33:23 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

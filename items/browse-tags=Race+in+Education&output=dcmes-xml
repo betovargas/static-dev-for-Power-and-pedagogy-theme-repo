@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/50">
+<dc:title>Modern-Day Segregation in Public Schools</dc:title>
+<dc:description>Discusses school tracking and its connection to other forms of segregation</dc:description>
+<dc:source>&lt;a href=&quot;https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;https://www.theatlantic.com/education/archive/2014/11/modern-day-segregation-in-public-schools/382846/&lt;/a&gt;</dc:source>
+<dc:identifier>School Policy, Tracking</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/35">
+<dc:title>TAGS</dc:title>
+</rdf:Description></rdf:RDF>

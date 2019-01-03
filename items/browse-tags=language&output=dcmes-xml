@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/57">
+<dc:title>Let&#039;s Stop Talking About The &#039;30 Million Word Gap&#039;</dc:title>
+<dc:description>Podcast about the so called 30-million word gap, how racial bias can effect studies and how we might need to rethink assumptions about early childhood education</dc:description>
+<dc:source>https://www.npr.org/sections/ed/2018/06/01/615188051/lets-stop-talking-about-the-30-million-word-gap</dc:source>
+<dc:language>english</dc:language>
+<dc:identifier>Early Childhood Education</dc:identifier>
+</rdf:Description></rdf:RDF>

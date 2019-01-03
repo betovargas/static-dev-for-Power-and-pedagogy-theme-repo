@@ -1,0 +1,17 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/36">
+<dc:title>‘It Has to Start Somewhere’: Grass-Roots Drive to Integrate New York Schools</dc:title>
+<dc:description>Article talks about a growing movement to integrate New York Public schools and how the grassroots movement is growing</dc:description>
+<dc:source>https://nyti.ms/2KQlUlo</dc:source>
+<dc:identifier>Segregation, Integration</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/53">
+<dc:title> Teacher Diversity in America </dc:title>
+<dc:description>From description: Experts from the Brown Center on Education Policy examine minority underrepresentation among educators in the U.S., providing insights into tackling diversity gaps in the public teacher workforce.</dc:description>
+<dc:source>https://www.brookings.edu/series/teacher-diversity-in-america/</dc:source>
+<dc:identifier>Hidden Curriculum, Diversity In schools</dc:identifier>
+</rdf:Description></rdf:RDF>

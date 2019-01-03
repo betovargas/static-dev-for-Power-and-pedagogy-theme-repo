@@ -1,0 +1,69 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/51">
+<dc:title>Love is All You Need (Full Length)</dc:title>
+<dc:description>This short film portrays a fictional world where being homosexual is the norm and heterosexual peoples are ostracized and discriminated against</dc:description>
+<dc:source>https://www.youtube.com/watch?time_continue=3&amp;v=3ROXTFfkcfo</dc:source>
+<dc:identifier>Hidden Curriculum, LGBT Issues</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/48">
+<dc:title>Let&#039;s use video to reinvent education</dc:title>
+<dc:description>Sal Khan, of Khan academy talks about the possibilities of a flipped classroom and how we can learn with videos</dc:description>
+<dc:source>https://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare</dc:source>
+<dc:identifier>How we learn, Policy</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/57">
+<dc:title>Let&#039;s Stop Talking About The &#039;30 Million Word Gap&#039;</dc:title>
+<dc:description>Podcast about the so called 30-million word gap, how racial bias can effect studies and how we might need to rethink assumptions about early childhood education</dc:description>
+<dc:source>https://www.npr.org/sections/ed/2018/06/01/615188051/lets-stop-talking-about-the-30-million-word-gap</dc:source>
+<dc:language>english</dc:language>
+<dc:identifier>Early Childhood Education</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/58">
+<dc:title>Kicking It Up a Notch: Becoming a Culturally Relevant Science Educator</dc:title>
+<dc:description>This is about how to create a culturally relevent science education</dc:description>
+<dc:source>http://thenode.biologists.com/kicking-notch-becoming-culturally-relevant-science-educator/education/</dc:source>
+<dc:identifier>Science Education</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/43">
+<dc:title>Is This Working?
+
+Stories of schools struggling with what to do with misbehaving kids. There&#039;s no general agreement about what teachers should do to discipline kids. And there&#039;s evidence that some of the most popular punishments actually may harm kids.</dc:title>
+<dc:description>Podcast about school discipline across America with focus on a restorative justice program in an urban public school</dc:description>
+<dc:source>https://www.thisamericanlife.org/538/is-this-working</dc:source>
+<dc:identifier>School Discipline</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/29">
+<dc:title>Iconic Desegregation Photo</dc:title>
+<dc:subject>Desegregation</dc:subject>
+<dc:description>Iconic photos with Ruby leaving school with Federal Marshalls, Juxtaposing her age and size with the intensity of the situation</dc:description>
+<dc:source>https://rarehistoricalphotos.com/ruby-bridges-1960/</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/26">
+<dc:title>How The Systemic Segregation Of Schools Is Maintained By &#039;Individual Choices&#039;</dc:title>
+<dc:subject>School Choice</dc:subject>
+<dc:description>One hour long interview with Nikole Hannah-Jones- ties in to Cucchiara and highlights PA context</dc:description>
+<dc:source>https://www.npr.org/templates/transcript/transcript.php?storyId=509325266</dc:source>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/54">
+<dc:title>How New Orleans Is Helping Its Students Succeed</dc:title>
+<dc:description>A really interesting positive take on complete charter school overhaul in New Orleans after Katrina.</dc:description>
+<dc:source>https://www.nytimes.com/2018/07/15/opinion/columnists/new-orleans-charter-schools-education-reform.html?action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=opinion-c-col-right-region&amp;region=opinion-c-col-right-region&amp;WT.nav=opinion-c-col-right-region</dc:source>
+<dc:identifier>Charter Schools, school reform</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/41">
+<dc:title>How Entitled Parents Hurt Schools</dc:title>
+<dc:description>This article looks at how rich parents can weaken public schools by using the system to give their students the biggest advantage.</dc:description>
+<dc:source>https://nyti.ms/2KoC9py</dc:source>
+<dc:identifier>School Choice, Rich Parents</dc:identifier>
+</rdf:Description>
+<rdf:Description rdf:about="https://pedagogyandpower.org/items/show/13">
+<dc:title>How America&#039;s Public Schools Keep Kids in Poverty</dc:title>
+<dc:subject>Civil Rights, Funding</dc:subject>
+<dc:description>A ted talk about equality, race, and poverty in schools</dc:description>
+<dc:source>https://www.youtube.com/watch?v=7O7BMa9XGXE</dc:source>
+<dc:format>Ted Talk Video</dc:format>
+</rdf:Description></rdf:RDF>

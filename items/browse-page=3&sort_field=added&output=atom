@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pedagogyandpower.org/items/browse?page=3&amp;sort_field=added&amp;output=atom</id>
+  <title><![CDATA[Pedagogy and Power]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2018-12-21T09:46:01+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://pedagogyandpower.org/items/browse?page=3&amp;sort_field=added&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/1?page=3&amp;sort_field=added&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/2?page=3&amp;sort_field=added&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/4?page=3&amp;sort_field=added&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://pedagogyandpower.org/items/browse/page/6?page=3&amp;sort_field=added&amp;output=atom"/>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/26</id>
+    <title><![CDATA[How The Systemic Segregation Of Schools Is Maintained By 'Individual Choices']]></title>
+    <summary><![CDATA[One hour long interview with Nikole Hannah-Jones- ties in to Cucchiara and highlights PA context]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/26"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">How The Systemic Segregation Of Schools Is Maintained By 'Individual Choices'</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Choice</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">One hour long interview with Nikole Hannah-Jones- ties in to Cucchiara and highlights PA context</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/templates/transcript/transcript.php?storyId=509325266</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/27</id>
+    <title><![CDATA[Choosing a School for my Daughter in a Segregated City]]></title>
+    <summary><![CDATA[NYT Magazine article from Nikole Hannah-Jones on choosing to send her daughter to a NY city public school, rather than a private or magnet school.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/27"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Choosing a School for my Daughter in a Segregated City</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Choice, Segregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">NYT Magazine article from Nikole Hannah-Jones on choosing to send her daughter to a NY city public school, rather than a private or magnet school.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/2016/06/12/magazine/choosing-a-school-for-my-daughter-in-a-segregated-city.html?mcubz=3</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/28</id>
+    <title><![CDATA[The Problem We All Live With]]></title>
+    <summary><![CDATA[Nikole Hannah-Jones on a case of accidental desegregation in Missouri; makes a compelling case for deseg, which contrasts with her other articles.]]></summary>
+    <updated>2018-10-10T04:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/28"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Problem We All Live With</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Desegregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Nikole Hannah-Jones on a case of accidental desegregation in Missouri; makes a compelling case for deseg, which contrasts with her other articles.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Part 1: https://www.thisamericanlife.org/562/the-problem-we-all-live-with-part-one<br />
+Part 2: https://www.thisamericanlife.org/563/the-problem-we-all-live-with-part-two</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/29</id>
+    <title><![CDATA[Iconic Desegregation Photo]]></title>
+    <summary><![CDATA[Iconic photos with Ruby leaving school with Federal Marshalls, Juxtaposing her age and size with the intensity of the situation]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/29"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Iconic Desegregation Photo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Desegregation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Iconic photos with Ruby leaving school with Federal Marshalls, Juxtaposing her age and size with the intensity of the situation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://rarehistoricalphotos.com/ruby-bridges-1960/</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/30</id>
+    <title><![CDATA[More than a Score: giving students a solid chance]]></title>
+    <summary><![CDATA[High-stakes testing from the editor of More than a Score]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/30"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">More than a Score: giving students a solid chance</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">High-Stakes Testing</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">High-stakes testing from the editor of More than a Score</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=gL64chNiuJQ</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/31</id>
+    <title><![CDATA[NEED THE SOURCE From Malcolm London and Faltama Seid in More than a Score]]></title>
+    <summary><![CDATA[Three student-authored poems written about the culture of high-stakes testing]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/31"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NEED THE SOURCE From Malcolm London and Faltama Seid in More than a Score</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">High-Stakes Testing</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Three student-authored poems written about the culture of high-stakes testing</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/32</id>
+    <title><![CDATA[Neuroscientist Explains One Concept in 5 Levels of Difficulty]]></title>
+    <summary><![CDATA[Wired Video: Neuroscientist explains the same scientific concept to a 5 year old, 13 year old, college student, grad student, and industry expert.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/32"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Neuroscientist Explains One Concept in 5 Levels of Difficulty</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Spiral Curriculum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Wired Video: Neuroscientist explains the same scientific concept to a 5 year old, 13 year old, college student, grad student, and industry expert.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=opqIa5Jiwuw</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/33</id>
+    <title><![CDATA[School Funding Map]]></title>
+    <summary><![CDATA[NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/33"/>
+    <category term="Education Policy"/>
+    <category term="School Funding"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">School Funding Map</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">School Funding</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">NPR teamed up with Education Week to build this map of per-student spending nationwide (adjusted for regional cost differences). Connects to Kozol.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/35</id>
+    <title><![CDATA[TAGS]]></title>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/35"/>
+    <category term="Asian American Education"/>
+    <category term="Behaviorism"/>
+    <category term="Bilingual and Language Education"/>
+    <category term="Black Education"/>
+    <category term="Caring in Schools"/>
+    <category term="Constructivism"/>
+    <category term="Critical Pedagogy"/>
+    <category term="Discipline"/>
+    <category term="Early Childhood"/>
+    <category term="Education Leadership"/>
+    <category term="Education Policy"/>
+    <category term="Gender"/>
+    <category term="Hidden Curriculum"/>
+    <category term="Higher Education"/>
+    <category term="History of Education"/>
+    <category term="Human Development"/>
+    <category term="Immigrant Education"/>
+    <category term="Latinx Education"/>
+    <category term="Learning"/>
+    <category term="Multicultural Education"/>
+    <category term="Native Education"/>
+    <category term="Parents and Parenting"/>
+    <category term="Pedagogy"/>
+    <category term="Progressive Education"/>
+    <category term="Race in Education"/>
+    <category term="Racial and Ethnic Studies"/>
+    <category term="School Choice"/>
+    <category term="School Funding"/>
+    <category term="School Reform"/>
+    <category term="Segregation / Integration"/>
+    <category term="Social Emotional Learning"/>
+    <category term="Social Reproduction"/>
+    <category term="Socio - Constructivism"/>
+    <category term="Special Education"/>
+    <category term="Testing"/>
+    <category term="Tracking in Schools"/>
+    <category term="Whiteness and Education"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">TAGS</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://pedagogyandpower.org/items/show/36</id>
+    <title><![CDATA[‘It Has to Start Somewhere’: Grass-Roots Drive to Integrate New York Schools]]></title>
+    <summary><![CDATA[Article talks about a growing movement to integrate New York Public schools and how the grassroots movement is growing]]></summary>
+    <updated>2018-10-10T04:07:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedagogyandpower.org/items/show/36"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">‘It Has to Start Somewhere’: Grass-Roots Drive to Integrate New York Schools</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Article talks about a growing movement to integrate New York Public schools and how the grassroots movement is growing</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://nyti.ms/2KQlUlo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Segregation, Integration</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>
