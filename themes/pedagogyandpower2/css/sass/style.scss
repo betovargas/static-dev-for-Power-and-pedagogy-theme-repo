@@ -1,13 +1,23 @@
 @import "normalize";
 @import "screen";
 
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url('http://fonts.googleapis.com/css?family=Droid+Serif');
+@import url('http://fonts.googleapis.com/css?family=Special+Elite');
+@import url('http://fonts.googleapis.com/css?family=Droid+Serif');
+@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('http://fonts.googleapis.com/css?family=Bevan');
 
-$font-primary-family: 'Droid Serif';
 
+$font-primary-family:'Special Elite';
+$font-secondary-family: 'Droid Serif';
+$font-primary-header: 'Bevan';
+$font-secondary-header: 'Source Sans Pro';
+$primary-color: #fae596;
+$contrast-color: #173e43;
 
-@import "pedagogy";
+@import "pedagogy3";
 @media screen and (max-width:768px) {
     @import "768max";
 }
+
 

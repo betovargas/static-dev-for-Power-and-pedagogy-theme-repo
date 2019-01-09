@@ -4,7 +4,11 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url("http://fonts.googleapis.com/css?family=Droid+Serif");
+@import url("http://fonts.googleapis.com/css?family=Special+Elite");
+@import url("http://fonts.googleapis.com/css?family=Droid+Serif");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url("http://fonts.googleapis.com/css?family=Bevan");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -1687,33 +1691,151 @@ footer {
   display: inline; }
 
 /* @end */
-body#main {
-  background-color: #add8e6; }
+/* @group ----- Header ----- */
+header {
+  width: 100%;
+  background: #2193b0;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-gradient(linear, right top, left top, color-stop(60%, rgba(109, 213, 237, 0.65)), to(rgba(33, 147, 176, 0.8)));
+  background: linear-gradient(to left, rgba(109, 213, 237, 0.65) 60%, rgba(33, 147, 176, 0.8) url("../../../img/education.jpg"));
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: 100% auto;
+  padding: 0 0;
+  margin: 0 0 .5em 0;
+  min-height: 15em; }
+  header #site-title {
+    float: unset;
+    width: unset;
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    width: 960px;
+    padding: rhythm(1) 0; }
+    header #site-title:after {
+      content: "\0020";
+      display: block;
+      height: 0;
+      clear: both;
+      visibility: hidden; }
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+      header #site-title {
+        width: 768px; } }
+    @media only screen and (max-width: 767px) {
+      header #site-title {
+        width: 300px; } }
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+      header #site-title {
+        width: 420px; } }
+    header #site-title a {
+      color: #fff;
+      line-height: 10rem;
+      max-width: 915px;
+      display: block;
+      font-family: "Bevan"; }
+      @media only screen and (max-width: 375px) {
+        header #site-title a {
+          font-size: 1.5rem;
+          letter-spacing: .1rem; } }
+    header #site-title a:hover {
+      color: #fae596; }
 
-#content {
-  background-color: #d4ebf2;
-  margin-top: 4px; }
-  #content #primary {
-    float: right;
-    width: 100%; }
+/* ----- Main Content ----- */
+.landing {
+  width: 100%; }
+  .landing #content {
+    width: 75%;
+    margin: 0 auto;
+    background-color: #dddfd4; }
+
+/*----nav----*/
+#mobile-nav {
+  text-transform: uppercase;
+  font-family: "Droid Serif";
+  font-size: 14.4px;
+  border: unset;
+  border-bottom: 1.5px solid #fbebae, 0.8;
+  border-radius: 5px;
+  margin-right: .2rem; }
+  #mobile-nav ul.navigation li ul {
+    text-transform: capitalize; }
 
 #primary-nav {
-  margin: 0 auto; }
-  #primary-nav ul.navigation.nav-menu {
-    width: 20%;
-    display: inline; }
-    #primary-nav ul.navigation.nav-menu li.nav-item {
-      margin: 3px;
-      float: left;
-      position: relative; }
-      #primary-nav ul.navigation.nav-menu li.nav-item a {
-        background-color: #d4ebf2;
-        padding: 9px;
-        font-family: "Droid Serif";
-        margin: 0 auto; }
+  /*& .sub-nav {
+        border: none;
+    }
 
+    & .sub-nav a {
+        line-height: 1.5rem;
+        // text-transform: capitalize;
+    }
+
+    & .sub-nav a:first-letter {
+        // text-transform: lowercase;
+    }*/ }
+  #primary-nav .nav-menu {
+    border-right: none;
+    margin-bottom: .8rem; }
+  #primary-nav ul {
+    display: inline-block; }
+  #primary-nav .nav-item > a {
+    text-transform: uppercase;
+    text-align: center; }
+  #primary-nav .nav-item a,
+  #primary-nav .nav-item:first-child > a,
+  #primary-nav .nav-item > a:focus,
+  #primary-nav .nav-item > a.open {
+    font-family: "Droid Serif";
+    font-size: 18px;
+    border: unset;
+    border-bottom: 5.5px solid #173e43;
+    border-radius: 4px;
+    margin-right: 5rem; }
+  #primary-nav .nav-item a,
+  #primary-nav .nav-item a.open {
+    background-color: #fae596;
+    color: #173e43; }
+  #primary-nav .nav-item.active a {
+    border-bottom-color: #fae596; }
+  #primary-nav a:hover {
+    color: #173e43;
+    background-color: #fae596; }
+
+/*------- Main search bar ---- */
 #search-container {
   display: none; }
+
+#content {
+  border: none; }
+
+p {
+  font-family: "Droid Serif";
+  font-size: 18px;
+  line-height: 27px; }
+
+#exhibits-container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto; }
+  #exhibits-container .exhibit-preview {
+    width: 45%;
+    min-width: 310px;
+    height: 385px;
+    float: left;
+    border-bottom: 2px solid #fff;
+    padding: 1em 1em 0 1em;
+    margin: 0 1em;
+    font-size: 14.4px;
+    line-height: 14.4px; }
+    @media screen and (max-width: 960px) {
+      #exhibits-container .exhibit-preview {
+        height: 100%; } }
+    #exhibits-container .exhibit-preview div {
+      vertical-align: top; }
+  #exhibits-container .exhibit-preview:hover {
+    background-color: #3fb0ac; }
+    #exhibits-container .exhibit-preview:hover a h3, #exhibits-container .exhibit-preview:hover p {
+      color: #fff; }
 
 @media screen and (max-width: 768px) {
   /* @group ----- Generic HTML elements ----- */

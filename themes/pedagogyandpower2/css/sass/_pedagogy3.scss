@@ -1,0 +1,175 @@
+/* @group ----- Header ----- */
+
+header {
+    width: 100%;
+    //background-image: -webkit-linear-gradient(top, rgba(51, 102, 153, .85) 70%, rgba(200, 200, 150, .5)), url('../../../img/education.jpg');
+    //background: #ff6e7f;  /* fallback for old browsers */
+    //background: -webkit-linear-gradient(to right, #bfe9ff, #ff6e7f);  /* Chrome 10-25, Safari 5.1-6 */
+    //background: linear-gradient(to right, #bfe9ff, #ff6e7f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #2193b0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #6dd5ed, #2193b0, url('../../../img/education.jpg'));  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, rgba(109,213,237, .65) 60%, rgba(33,147,176, .8) url('../../../img/education.jpg')); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: 100% auto;
+    padding: 0 0;
+    margin: 0 0 .5em 0;
+    min-height: 15em;
+
+    #site-title {
+
+        float: unset;
+        width: unset;
+
+
+        @include container;
+        padding: rhythm(1) 0;
+
+        & a { 
+
+            color: #fff; 
+            line-height: 10rem;
+            max-width: 915px;
+            display: block;
+            font-family: $font-primary-header;
+
+            @media only screen and (max-width: 375px) {
+
+                font-size: 1.5rem;
+                letter-spacing: .1rem;
+            }    
+
+        }
+
+        a:hover { color: #fae596; }
+    }
+
+}
+/* ----- Main Content ----- */
+
+//added class "landing"//
+.landing {
+    width: 100%;
+    #content {
+    	width: 75%;
+    	margin: 0 auto;
+    	background-color: #dddfd4;
+    }
+}
+
+/*----nav----*/
+
+#mobile-nav {
+
+        text-transform: uppercase;
+        font-family: $font-secondary-family;
+        font-size: $base-font-size * 1.2;
+        border: unset;
+        border-bottom: 1.5px solid (lighten($primary-color, 5%),.8);
+        border-radius: 5px;
+        margin-right: .2rem;
+
+        & ul.navigation li ul {
+            text-transform: capitalize;
+        }
+}
+
+#primary-nav {
+	.nav-menu {
+		border-right: none;
+		margin-bottom: .8rem;
+	}
+
+    ul {
+        display: inline-block;
+        }
+        //float: left;
+    & .nav-item > a {
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    & .nav-item a, 
+    & .nav-item:first-child > a, 
+    & .nav-item > a:focus, 
+    & .nav-item > a.open {
+        font-family: $font-secondary-family;
+        font-size: $base-font-size * 1.5;
+        border: unset;
+        border-bottom: 5.5px solid ($contrast-color);
+        border-radius: 4px;
+        margin-right: 5rem;
+    }
+
+    & .nav-item a,
+    & .nav-item a.open {
+        background-color: $primary-color;
+        color: $contrast-color;
+    }
+
+    & .nav-item.active a {
+        border-bottom-color: $primary-color;
+    }
+
+    /*& .sub-nav {
+        border: none;
+    }
+
+    & .sub-nav a {
+        line-height: 1.5rem;
+        // text-transform: capitalize;
+    }
+
+    & .sub-nav a:first-letter {
+        // text-transform: lowercase;
+    }*/
+
+    & a:hover {
+        color: $contrast-color;
+        background-color: $primary-color;
+    }
+}
+
+/*------- Main search bar ---- */
+#search-container {
+	display:none;
+}
+
+#content {
+    border: none;
+}
+
+p {
+    font-family: $font-secondary-family;
+    font-size: $base-font-size * 1.5;
+    line-height: $base-line-height * 1.5;
+}
+
+#exhibits-container {
+	    width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        .exhibit-preview {
+        	width:45%;
+        	min-width: 310px;
+        	height: 385px;
+        	@media screen and (max-width:960px){
+        		height: 100%;
+        	}
+            float: left; border-bottom: 2px solid #fff;
+            padding: 1em 1em 0 1em;
+            margin: 0 1em;
+            font-size:.8 * $base-line-height;
+            line-height: .8 * $base-line-height;
+            div { vertical-align: top; }
+        }
+        .exhibit-preview:hover {
+        	background-color: #3fb0ac;
+        	a h3, p{
+        		color: #fff;
+        	}
+        }
+}
+
+
+
+
+
