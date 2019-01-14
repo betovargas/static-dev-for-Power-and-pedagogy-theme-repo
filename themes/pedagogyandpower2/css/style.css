@@ -1696,10 +1696,7 @@ header {
   width: 100%;
   background: #2193b0;
   /* fallback for old browsers */
-  /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-gradient(linear, right top, left top, color-stop(60%, rgba(109, 213, 237, 0.65)), to(rgba(33, 147, 176, 0.8)));
-  background: linear-gradient(to left, rgba(109, 213, 237, 0.65) 60%, rgba(33, 147, 176, 0.8) url("../../../img/education.jpg"));
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-image: -webkit-linear-gradient(right, rgba(63, 176, 172, 0.85) 70%, rgba(250, 229, 150, 0.5)), url("../img/education.jpg");
   background-size: 100% auto;
   padding: 0 0;
   margin: 0 0 .5em 0;
@@ -1745,8 +1742,7 @@ header {
   width: 100%; }
   .landing #content {
     width: 75%;
-    margin: 0 auto;
-    background-color: #dddfd4; }
+    margin: 0 auto; }
 
 /*----nav----*/
 #mobile-nav {
@@ -1801,6 +1797,9 @@ header {
     color: #173e43;
     background-color: #fae596; }
 
+#secondary-nav a, .secondary-nav a {
+  display: none; }
+
 /*------- Main search bar ---- */
 #search-container {
   display: none; }
@@ -1822,7 +1821,7 @@ p {
     min-width: 310px;
     height: 385px;
     float: left;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid #ff8000;
     padding: 1em 1em 0 1em;
     margin: 0 1em;
     font-size: 14.4px;
@@ -1830,11 +1829,18 @@ p {
     @media screen and (max-width: 960px) {
       #exhibits-container .exhibit-preview {
         height: 100%; } }
+    #exhibits-container .exhibit-preview a img.thumb {
+      width: 200px;
+      height: 200px; }
     #exhibits-container .exhibit-preview div {
       vertical-align: top; }
+  #exhibits-container .exhibit-preview:link a {
+    text-decoration: none; }
   #exhibits-container .exhibit-preview:hover {
     background-color: #3fb0ac; }
-    #exhibits-container .exhibit-preview:hover a h3, #exhibits-container .exhibit-preview:hover p {
+    #exhibits-container .exhibit-preview:hover a h3, #exhibits-container .exhibit-preview:hover h2 a, #exhibits-container .exhibit-preview:hover p {
+      color: #fae596; }
+    #exhibits-container .exhibit-preview:hover p.tags:hover a {
       color: #fff; }
 
 @media screen and (max-width: 768px) {
